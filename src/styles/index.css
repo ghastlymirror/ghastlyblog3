@@ -276,3 +276,22 @@ menu {
 .MathJax svg {
   display: inline;
 }
+
+/* image position and size */
+img[src$='#center'] {
+  display: block;
+  margin: auto;
+  width:90%;
+}
+
+
+img[src$='#medium'] {
+  display: block;
+  margin: auto;
+  width:60%;
+}
+
+img[src$='#original'] {
+  display: block;
+  margin: auto;
+}
