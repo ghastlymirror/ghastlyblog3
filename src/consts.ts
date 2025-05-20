@@ -505,7 +505,7 @@ export const analytics: AnalyticsConfig = {
   umamiConfig: {
     enable: true,
     id: "081341e0-724a-4627-8ed2-7944311d27b3",
-    url: "https://cloud.umami.is/share/eL77JubfizFvkrFI/www.ghastlymirror.xyz"
+    url: "https://cloud.umami.is/script.js"
   },
   gaConfig: {
     enable: false,
