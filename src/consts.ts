@@ -436,7 +436,7 @@ export const friendshipLinks =
 {
   name: "BinaryDigit.city",
   url: "https://binarydigit.city/",
-  avatar: "/images/blogroll/binarydigit.jpg",
+  avatar: "/images/blogroll/binarydigit.jpeg",
   description: "Blog of a Photographer, Artist and Gamer"
 },
 
