@@ -7,12 +7,12 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 7th May 2025
+**Last Update:** 4th June 2025
 
 
 ### 🎮 Playing
 
- Piglet´s Big Game, Slay the Spire, Fantasy Life, Fosters Big Fat Awesome House Party, Bugaboo Pocket
+ Piglet´s Big Game, Slay the Spire, Fantasy Life, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland
 
 ### 📺 Watching
  King of the Hill, Delico´s Nursery, Gremlins, [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Delicious in Dungeon, Friendly Neighbourhood Spider-Man, American Dragon: jake Long, Monster Loving Maniacs, Doctor Who
@@ -42,4 +42,4 @@ Lord of the Rings, Vigilant by James A. Gardner, Carmilla, Mueliner Nights, Doct
 
 ### 🐦‍ Living
 
-Tried to repott my dying orchids, turns out it was too late. They died. Might buy new ones. Also got new fish for my aquarium
+Been Going to the Beach Lately since the weather is getting Warmer. Went House hunting and I´m trying to see If there is a new Seagull Family across my Window
