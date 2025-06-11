@@ -8,6 +8,11 @@ tags:
   - writting
 ogImage: /images/blog/blaugust2023.png
 preview: /images/blog/blaugust2023.png
+donate: true
+comment: true
+description: |-
+  With the Start of August, marks the beginning of Blaugust and this blog´s second year participting.
+  This is a yearly event that encourages bloggers to post more
 ---
 ![Blaugust 2023](/images/blog/blaugust2023.png)
 
