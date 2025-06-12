@@ -4,11 +4,12 @@ import {comment} from "@/consts";
 import {t} from '@/i18n/utils'
 ---
 
-<IndexPage frontmatter={{comment: comment.enable, donate: false,}}>
+<IndexPage frontmatter={{comment: comment.disable, donate: false,}}>
   <div class="flex text-xl underline-offset-4 font-bold">
     {t('message.welcome')}
   </div>
   <div>
     {t('message.welcomeTips')}
   </div>
+  <script data-letterbirduser="ghastlymirror" src="https://letterbird.co/embed/v1.js"></script>
 </IndexPage>
