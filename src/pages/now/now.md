@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 18th June 2025
+**Last Update:** 7th July 2025
 
 
 ### 🎮 Playing
 
- Piglet´s Big Game, Slay the Spire, Fantasy Life, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, ToonTown rewritten
+ Piglet´s Big Game, Slay the Spire, Fantasy Life, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, Flash Doll
 
 ### 📺 Watching
- King of the Hill, Delico´s Nursery, Gremlins, [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Delicious in Dungeon, Friendly Neighbourhood Spider-Man, American Dragon: jake Long, Monster Loving Maniacs, Doctor Who
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, DanDanDan
 
 ### 📖 Reading
 Lord of the Rings, Vigilant by James A. Gardner, Carmilla, The Mystery of the Yellow Room by Gaston Leroux
@@ -39,6 +39,10 @@ Lord of the Rings, Vigilant by James A. Gardner, Carmilla, The Mystery of the Ye
 
 - Raphsody: A Musical Adventure Review
 
+- Bugaboo Review
+
+- Flash Doll Review
+
 ### 🐦‍ Living
 
-Got to go to an Meeting Even about Boardgames, I also did some swimming this week since it was hot as hell.
+Enjoying the Beach and The Fstivities of Os Santos Populares

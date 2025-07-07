@@ -13,6 +13,7 @@ tags:
 preview: /images/blog/top-5-adventure-games.jpg
 
 ogImage: /images/blog/top-5-adventure-games.jpg
+
 ---
 ![Top Five Adventure Games](/images/blog/top-5-adventure-games.jpg)
 
