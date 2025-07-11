@@ -28,7 +28,7 @@ export const site = {
   description: 'A blog all about gaming, photography and other hobbies ',
   author: "ghastlymirror", // required
   avatar: '/avatar.png', // required
-  motto: 'A blog all about gaming, photography and other hobbies1',
+  motto: 'A blog all about gaming, photography and other hobbies',
   url: 'https://www.ghastlymirror.xyz',
   baseUrl: '', // When using GitHubPages, you must enter the repository name startWith '/'. e.g. '/astro-blog'
   recentBlogSize: 5,
