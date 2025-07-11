@@ -31,7 +31,6 @@ export const site = {
   motto: 'A blog all about gaming, photography and other hobbies',
   url: 'https://www.ghastlymirror.xyz',
   baseUrl: '', // When using GitHubPages, you must enter the repository name startWith '/'. e.g. '/astro-blog'
-  motto: 'Actions speak louder than words.',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,
