@@ -22,7 +22,7 @@ For those who you who are new, Blaugust is a organized anually event for the blo
 
 The main objective is to get people into  more traditional forms of blogging, plus you get to part of a thriving online community, discover some sites to read. And I would argue, an alterntive to just staying stuck on social media. Speciall where there so much cool stuff out there.
 
-This bring to me to news about this years event. Normally this event is lead by [Belghast, owner of Tales from The Aggronaut](https://aggronaut.com/2025/07/11/blaugust-in-another-castle/), but due to some personal issues has passed the torch to Krikketin her [announcement post](https://nerdgirlthoughts.game.blog/2025/07/10/blaugust-2025-is-coming/), along with details on how to join.
+This bring to me to news about this years event. Normally this event is lead by [Belghast,](https://aggronaut.com/2025/07/11/blaugust-in-another-castle/), but due to some personal issues has passed the torch to Krikketin her [announcement post](https://nerdgirlthoughts.game.blog/2025/07/10/blaugust-2025-is-coming/) owner of Tales from The Aggronaut, along with details on how to join.
 
 Also I would like to declare that my Blog will be participating this time around, after being absent last August. I had a couple of reasons for this, as I´ve probably mentioned on here several times. Due to my issues with Worpress.com, I was trying to figure a plan on how to transfer my blog, which went into a rabbit hole of how to use a static site generator as well as getting my own personal domain.
 
