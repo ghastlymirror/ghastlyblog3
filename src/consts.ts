@@ -23,7 +23,7 @@ import type {AnalyticsConfig} from "./types/analyticsTypes"
  *    All tags will be displayed in single page "/tags".
  */
 export const site = {
-  title: 'The Ghastly Mirror 👻', // required
+  title: 'The Ghastly Mirror', // required
   favicon: '/favicon.svg', // required
   description: 'A blog all about gaming, photography and other hobbies ',
   author: "ghastlymirror", // required
