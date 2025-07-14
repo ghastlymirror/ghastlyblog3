@@ -500,7 +500,7 @@ export const comment = {
  * It defines and exports the default settings for Umami and Google Analytics.
  */
 export const analytics: AnalyticsConfig = {
-  enable: false,
+  enable: true,
   umamiConfig: {
     enable: true,
     id: "081341e0-724a-4627-8ed2-7944311d27b3",
