@@ -15,7 +15,7 @@ This page is where I give updates about what goes on with my life. Original idea
  Piglet´s Big Game, Slay the Spire, Fantasy Life, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, Flash Doll, Yokai Watch
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, DanDanDan
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, DanDanDan, Takopi´s Original Sin
 
 ### 📖 Reading
  Vigilant by James A. Gardner, Carmilla, The Mystery of the Yellow Room by Gaston Leroux
