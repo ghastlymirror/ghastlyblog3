@@ -7,12 +7,12 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 14th July 2025
+**Last Update:** 25th July 2025
 
 
 ### 🎮 Playing
 
- Piglet´s Big Game, Slay the Spire, Fantasy Life, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, Flash Doll, Yokai Watch
+ Piglet´s Big Game, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator
 
 ### 📺 Watching
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, DanDanDan, Takopi´s Original Sin
