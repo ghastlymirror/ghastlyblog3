@@ -26,13 +26,13 @@ This whole situation is upsetting to me for a couple reasons...
 
 For one, I don´t think payment companies should have this much power to control what can you or cannot buy based on some abstract notion of moral purity, specially since since the existence of these works have harmed no one nor is it illegal to do so.
 
-And I would argue that sexuality can just be a valid form of artisitc expression like any other themes shown in fiction. It´s kinda weird that we live in world wehre violence in a fantasy context is more acceptable and anything sexual.
+And I would argue that sexuality can just be a valid form of artisitc expression like any other themes shown in fiction. It´s kinda weird that we live in world wehre violence in a fantasy context is more acceptable than anything sexual.
 
 You can blow up an enemy in a videogame without much fanfare, but the moment there´s a pair of boobs, on screen? All hell breaks lose. Its just doesn´t make sense to me.
 
 Plus we´ve all seen proof that it never just stops at mere erotica, often times this type of censorship will also affect the most vulnerable groups, like namely the LGBT+ community. Sadly we still live in a society where even the most tame of queer experience get sexualized , in contrast to heterosexual experiences.
 
-And we there have been reports of creators in itch.io having their LGBT+ works deindexed despite being sfw, being caught in the crossfire.
+And there have been reports of creators in itch.io having their LGBT+ works deindexed despite being sfw, being caught in the crossfire.
 
 So now we got a situation where people in this community are unable to freely tell their own stories and make a living off of it. 
 
