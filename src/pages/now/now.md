@@ -6,8 +6,7 @@ comment: false
 
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
-
-**Last Update:** 25th July 2025
+26th July 2025
 
 
 ### 🎮 Playing
@@ -48,4 +47,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-Enjoying the Beach, Aloo got to go to a Local Concert, visited a fair and had a pcinic last weekend
+Beach Week
