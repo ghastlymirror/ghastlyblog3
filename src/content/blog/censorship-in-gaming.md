@@ -54,7 +54,7 @@ Only to back down once enough people made some noise.
 
 Also back up stuff that you created or bought (if got it from Itch.io since its DRM free), and archive it somewhere. Invested in a external hardrive! Maybe consider [making your own website](https://marquisdeclaude.neocities.org/buildasite/). Best to have as many fingers in pies as possible.
 
-One last thing, you don´t need to been this kind of games or books to care. I would say this issue affect all of us and it is a matter of defending freedom of expression on the internet.
+One last thing, you don´t need to be into this kind of games or books to care. I would say this issue affect all of us and it is a matter of defending freedom of expression on the internet.
 
 Besides I can think at the top of my head several games that would´ve been banned due to these policies. Baldur´s Gate 3 alone would probably count among them.
 
