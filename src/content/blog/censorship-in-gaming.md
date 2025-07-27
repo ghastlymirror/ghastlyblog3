@@ -18,9 +18,9 @@ ogImage: /images/blog/steamsotre.png
 
 Today is a very dark day for the gaming community. If you aren´t aware, both Steam and Itch.io have delisted or deindexed thousands of titles thanks to pressures from payment processors and the root of this is the involvement of an Australian  anti-pornography called [Collective Shout.](https://www.rascal.news/itch-io-delists-bans-games-under-pressure-from-payment-processors-and-an-australian-anti-porn-group/)
 
-With Itch.io  known as a safe heaven for creators of these type of works, that has now changed with Nsfw titles longer showing up in searches or the browsing section. 
+With Itch.io  known as a safe heaven for creators of these type of works, that has now changed with Nsfw titles no longer showing up in searches or the browsing section. 
 
-This is causing issues for both creators and buyers as like, as not only this means mean risking losing acess to stuff they had already payed for and put the livelhoods of people who sell their stuff in the platforms at risk.
+This is causing issues for both creators and buyers as like, as not only this means risking losing acess to stuff they had already payed for and put the livelhoods of people who sell their stuff in the platforms at risk.
 
 This whole situation is upsetting to me for a couple reasons...
 
