@@ -48,7 +48,7 @@ Well, things are not hopeless. One thing we can do is pull a page out of their b
 
 We need to show these corporations that pushing these content policies is more of a pain than its worth, and is destroying people´s trust in these services.
 
-And before any one points out that it might not work. There is some precendent. After all Onlyfans at one point try to crack down on Adult content thanks to pressure from payments processors, despite it being the thing that made their site profitable in the first place.
+And before any one points out that it might not work. There is some precendent. After all Onlyfans at one point tried to crack down on Adult content thanks to pressure from payments processors, despite it being the thing that made their site profitable in the first place.
 
 Only to back down once enough people made some noise.
 
