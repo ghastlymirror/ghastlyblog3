@@ -20,15 +20,15 @@ Today is a very dark day for the gaming community. If you aren´t aware, both St
 
 With Itch.io  known as a safe heaven for creators of these type of works, that has now changed with Nsfw titles no longer showing up in searches or the browsing section. 
 
-This is causing issues for both creators and buyers as like, as not only this means risking losing acess to stuff they had already payed for and put the livelhoods of people who sell their stuff in the platforms at risk.
+This is causing issues for both creators and buyers alike, as not only this means risking losing acess to stuff they had already payed for and put the livelhoods of people who sell their stuff in the platforms at risk.
 
 This whole situation is upsetting to me for a couple reasons...
 
 For one, I don´t think payment companies should have this much power to control what can you or cannot buy based on some abstract notion of moral purity, specially since since the existence of these works have harmed no one nor is it illegal to do so.
 
-And I would argue that sexuality can just be a valid form of artisitc expression like any other themes shown in fiction. It´s kinda weird that we live in world wehre violence in a fantasy context is more acceptable than anything sexual.
+And I would argue that sexuality can just be a valid form of artistic expression like any other themes shown in fiction. It´s kinda weird that we live in world where violence in a fantasy context is more acceptable than anything sexual.
 
-You can blow up an enemy in a videogame without much fanfare, but the moment there´s a pair of boobs, on screen? All hell breaks lose. Its just doesn´t make sense to me.
+You can blow up an enemy in a videogame without much fanfare, but the moment there´s a pair of boobs on screen? All hell breaks lose. Its just doesn´t make sense to me.
 
 Plus we´ve all seen proof that it never just stops at mere erotica, often times this type of censorship will also affect the most vulnerable groups, like namely the LGBT+ community. Sadly we still live in a society where even the most tame of queer experience get sexualized , in contrast to heterosexual experiences.
 
@@ -36,7 +36,7 @@ And there have been reports of creators in itch.io having their LGBT+ works dein
 
 So now we got a situation where people in this community are unable to freely tell their own stories and make a living off of it. 
 
-And mark my words, the likes of Collective Shout and other groups like it are not gonna being content with just taking down stuff on steam, and itch.io. What´s next, going after Newgrounds? Maybe they will try to block Archive of Our Own from be able to receive donations.
+And mark my words, the likes of Collective Shout and other groups like it are not gonna being content with just taking down stuff on steam, and itch.io. What´s next, going after Newgrounds? Maybe they will try to block Archive of Our Own from being able to receive donations.
 
 We might as well go back to the days of mail listings and send a check in the mail or maybe pass around a usb stick with some smut on it as if it were contraband.
 
@@ -48,13 +48,13 @@ Well, things are not hopeless. One thing we can do is pull a page out of their b
 
 We need to show these corporations that pushing these content policies is more of a pain than its worth, and is destroying people´s trust in these services.
 
-And before any one points out that it might not work. There is some precendent. After all Onlyfans at one point tried to crack down on Adult content thanks to pressure from payments processors, despite it being the thing that made their site profitable in the first place.
+And before any one points out that it might not work. There is some precedent. After all Onlyfans at one point tried to crack down on Adult content thanks to pressure from payments processors, despite it being the thing that made their site profitable in the first place.
 
 Only to back down once enough people made some noise.
 
-Also back up stuff that you created or bought (if got it from Itch.io since its DRM free), and archive it somewhere. Invested in a external hardrive! Maybe consider [making your own website](https://marquisdeclaude.neocities.org/buildasite/). Best to have as many fingers in pies as possible.
+Also back up stuff that you created or bought (if  you got it from Itch.io since its DRM free), and archive it somewhere. Invested in a external hardrive! Maybe consider [making your own website](https://marquisdeclaude.neocities.org/buildasite/). Best to have as many fingers in pies as possible.
 
-One last thing, you don´t need to be into this kind of games or books to care. I would say this issue affect all of us and it is a matter of defending freedom of expression on the internet.
+One last thing, you don´t need to be into these kind of games or books to care. I would say this issue affect all of us and it is a matter of defending freedom of expression on the internet.
 
 Besides I can think at the top of my head several games that would´ve been banned due to these policies. Baldur´s Gate 3 alone would probably count among them.
 
