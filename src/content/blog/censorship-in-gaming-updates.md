@@ -20,7 +20,7 @@ Ok, so it has been a couple of days since I lasted talked about this. So here´s
 
 The call centers for these payment companies have started to take notice, with people who contacted support reporting being asked if they´re lodging a complaint due to what is happening with Steam. So yes, Keep up with those calls guys. The key here is to take a much as their time as possible.
 
-Also be sure to remain polite throught all of it. Remember, our anger is with the ones at the top, not at the worker who is probably not payed enough for this shit. Now, I heard some callers have been hung up immediatly, if that ever happens, you can call to complain about that stuff too, and if that doens´t work you can contact your local and talk about having issues with getting support with your payment processor.
+Also be sure to remain polite throught all of it. Remember, our anger is with the ones at the top, not at the worker who is probably not payed enough for this shit. Now, I heard some callers have been hung up immediatly, if that ever happens, you can call to complain about that stuff too, and if that doesn´t work you can contact your local and talk about having issues with getting support with your payment processor.
 
 And of course you can also send them a physical letter, I think filling their inboxes is one other way to get their attention. If you haven´t already [this site ](https://yellat.money/)has a complete list of resources to help you do so.
 
