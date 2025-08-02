@@ -12,7 +12,7 @@ comment: true
 toc: true
 heroImage: /images/blog/steamsotre.png
 ogImage: /images/blog/steamsotre.png
-description: Some progress has made against censorship,  Itch.io reversed some of its decisions, Mastercard tries to deflect Blame, and GOG joins the fight with a giveaway.
+description: Some progress has bmade against censorship,  Itch.io reversed some of its decisions, Mastercard tries to deflect Blame, and GOG joins the fight with a giveaway.
 ---
 ![Steam Logo](/images/blog/steamsotre.png)
 
