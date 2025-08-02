@@ -28,7 +28,7 @@ Our payment network follows standards based on the rule of law. Put simply, we a
 
 Ok, there is a lot to unpack here. Its very obvious that this very milquestoast response shows that they are trying to deflecting any responsibility over this. I also have half a mind to call them right now and ask what sort of content that broke the law did they find on Steam that warranted this, like give me examples! Like just Name them! Oh wait, they mentioned they don´t even evaluate the games in question.
 
-So, what are the standards then!? Are you just going off of vibes? Wanna bet there was nothing illegal being sold there, to point they went against their own rules?
+So, what are the standards then!? Are you just going off of vibes? Wanna bet there was nothing illegal being sold there, to the point they went against their own rules?
 
 As for "We don´t require restrictions on game sites", Valve has finally [broken their silence](https://kotaku.com/mastercard-denies-pressuring-steam-to-censor-nsfw-games-2000614393), and confirmed that yes, that Mastercard did got involved but in a indirect manner, by communicating with payment processors and banks while never bothering to communicate with Valve.
 
