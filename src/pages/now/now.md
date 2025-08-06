@@ -6,7 +6,8 @@ comment: false
 
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
-26th July 2025
+
+**Last Update:** 6th August 2025
 
 
 ### 🎮 Playing
@@ -14,7 +15,7 @@ This page is where I give updates about what goes on with my life. Original idea
  Piglet´s Big Game, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, DanDanDan, Takopi´s Original Sin
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, DanDanDan, 
 
 ### 📖 Reading
  Vigilant by James A. Gardner, Carmilla, The Mystery of the Yellow Room by Gaston Leroux
@@ -43,7 +44,7 @@ This page is where I give updates about what goes on with my life. Original idea
 
 - Flash Doll Review
 
-- Joining in this Years Blaugust
+
 
 ### 🐦‍ Living
 
