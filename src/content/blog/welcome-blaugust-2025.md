@@ -2,9 +2,10 @@
 title: Welcome to Blaugust 2025
 date: 2025-08-05
 category:
-    - Blogging
+    - blogging
 tags:
     - blaugust
+    - writting
 heroImage: /images/blog/blaugust2025tpbk2.png
 ogImage: /images/blog/blaugust2025tpbk2.png
 toc: true
