@@ -1,6 +1,6 @@
 ---
 title: "Flash Doll Review: The Perfect Game for Toy Collectors"
-date: 2025-08-12
+date: 2025-08-30
 category:
     - gaming
     - review
