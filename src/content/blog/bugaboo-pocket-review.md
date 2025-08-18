@@ -97,7 +97,7 @@ All in all, this is a pretty interesting game to play if you´re into pet raisin
 
 It is though, as I´ve mentioned earlier, this is not the type of game to play in one go, but more to play for a couple of minutes or the course of several days.
 
-Chances are I´m had this one to my list of Bug Themed Games to play. Its not all that expensive as you can get for a couple of bucks, althoguht I did bought when Steam was doing A creature collector game sale, so you are gonna get your money´s worht here.
+Chances are I´m had this one to my list of Bug Themed Games to play. Its not all that expensive as you can get for a couple of bucks, althought I did bought it when Steam was doing A creature collector game sale, so you are gonna get your money´s worht here.
 
 
 ### Game Links
