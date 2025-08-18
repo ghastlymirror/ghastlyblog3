@@ -7,12 +7,12 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 6th August 2025
+**Last Update:** 18th August 2025
 
 
 ### 🎮 Playing
 
- Piglet´s Big Game, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator
+ Piglet´s Big Game, Fosters Big Fat Awesome House Party, Bugaboo Pocket, Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Warioware Inc
 
 ### 📺 Watching
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, DanDanDan, 
@@ -48,4 +48,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-Beach Week
+There was an antiques fair on a town I was visiting, I did not bought anything (there nothing calling out to me) but I found a bunch old cameras, collectible model trains, vinil albums and a very weird troll doll
