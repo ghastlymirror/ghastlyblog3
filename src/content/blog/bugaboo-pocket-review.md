@@ -13,7 +13,7 @@ tags:
     - blaugust
 ogImage: /images/2025/bugaboopocket.png
 heroImage: /images/2025/bugaboopocket.png
-description: I mention this game on my last post about my favroite summer games. Here´s a virtual pet and educational game that allows to raise bugs to save nature.
+description: I mentioned this game on my last post about my favroite summer games. Here´s a virtual pet and educational game that allows to raise bugs to save nature.
 ---
 ![Bugaboo pocket](/images/2025/bugaboopocket.png#center)
 
