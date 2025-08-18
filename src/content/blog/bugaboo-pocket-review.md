@@ -1,5 +1,5 @@
 ---
-title: "Bugaboo Pocket Review: Raising Bugs For the Environment"
+title: "Bugaboo Pocket Review: Raising Bugs For the Environment."
 date: 2025-08-16
 toc: true
 donate: true
