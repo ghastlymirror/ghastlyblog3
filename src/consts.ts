@@ -192,7 +192,7 @@ export const infoLinks = [
  * paypalUrl {string}
  */
 export const donate = {
-  enable: true,
+  enable: false,
   tip: "Thanks for reading. If you like what I do, feel free to send me a tip below! ☕",
 
   kofiUrl: "https://ko-fi.com/ghastlymirror",
