@@ -80,6 +80,11 @@
           "title": "comment",
           "name": "comment",
           "type": "boolean"
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "draft"
         }
       ]
     }
