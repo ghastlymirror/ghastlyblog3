@@ -45,4 +45,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-There was an antiques fair on a town I was visiting, I did not bought anything (there nothing calling out to me) but I found a bunch old cameras, collectible model trains, vinil albums and a very weird troll doll
+September is here, its look like beach season is almost over
