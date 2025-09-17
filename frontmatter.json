@@ -85,6 +85,16 @@
           "title": "draft",
           "name": "draft",
           "type": "draft"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "coverImage",
+          "name": "coverImage",
+          "type": "image"
         }
       ]
     }
