@@ -8,6 +8,7 @@ tags:
   - blaugust
   - retro
   - simulation
+  - animal crossing
 heroImage: /images/blog/animal-crossing-startscreen.jpg
 ogImage: /images/blog/animal-crossing-startscreen.jpg
 comment: true
