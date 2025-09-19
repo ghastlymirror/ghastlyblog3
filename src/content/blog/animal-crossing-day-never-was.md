@@ -1,7 +1,7 @@
 ---
-title: Animal Crossing GC - The Day that Never Was
+title: "Animal Crossing GC: The Day that Never Was"
 date: 2023-08-11
-categories:
+category:
   - gaming
   - walkthrough
 tags:

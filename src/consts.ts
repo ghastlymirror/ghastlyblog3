@@ -72,26 +72,11 @@ export const categories = [
     href: "/blog/1",
   },
 
- 
- 
   {
     name: "Archive",
     iconClass: "ri-archive-line",
     href: "/archive/1",
   },
-
-  {
-    name: "Backlog",
-    iconClass: "ri-gamepad-line",
-    href: "https://www.backloggd.com/u/GhastlyMirror/",
-  },
-
-  {
-    name: "Achievements",
-    iconClass: "ri-medal-line",
-    href: "https://www.exophase.com/user/ghastlymirror/",
-  },
-
 
 
   {
@@ -102,35 +87,50 @@ export const categories = [
   },
  
   {
+    name: 'About',
+    iconClass: 'ri-information-line',
+    href: '/about',
+  },
+
+  {
+    name: "Message",
+    iconClass: "ri-chat-1-line",
+    href: "/message",
+  },
+
+  {
+    name: 'Blogroll',
+    iconClass: 'ri-user-5-line',
+    href: '/blogroll',
+    target: '_self',
+  },
+
+
+  {
     name: "Search",
     iconClass: "ri-search-line",
     href: "/search",
   },
  
   
-
   {
     name: "More",
     iconClass: "ri-more-fill",
     href: "javascript:void(0);",
     children: [
+  
       {
-        name: 'About',
-        iconClass: 'ri-information-line',
-        href: '/about',
+        name: "Achievements",
+        iconClass: "ri-medal-line",
+        href: "https://www.exophase.com/user/ghastlymirror/",
       },
+    
       {
-        name: 'Blogroll',
-        iconClass: 'ri-user-5-line',
-        href: '/blogroll',
-        target: '_self',
+        name: "Backlog",
+        iconClass: "ri-gamepad-line",
+        href: "https://www.backloggd.com/u/GhastlyMirror/",
       },
 
-      {
-        name: "Message",
-        iconClass: "ri-chat-1-line",
-        href: "/message",
-      },
       {
         name: "Feed",
         iconClass: "ri-lightbulb-flash-line",
