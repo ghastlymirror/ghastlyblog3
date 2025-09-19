@@ -14,6 +14,7 @@ ogImage: /images/blog/animal-crossing-startscreen.jpg
 comment: true
 donate: true
 toc: true
+description: "Been Playing Animal Crossing for a couple more days. First off I´ve had two new villagers move in  and I got to meet some of them  and do some chores for them. "
 ---
 ![Animal Crossing](/images/blog/animal-crossing-startscreen.jpg)
 
