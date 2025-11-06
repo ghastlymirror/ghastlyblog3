@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 27th October 2025
+**Last Update:** 6th November 2025
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Warioware Inc, Fusion Fall, Medievil
+ Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Warioware Inc, Fusion Fall, Medievil, Hollywood Monsters
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, South Park, Dark Shadows
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, South Park, Dark Shadows, Talamasca
 
 ### 📖 Reading
  Vigilant by James A. Gardner, Case Study of Sherlock Holmes
@@ -46,8 +46,10 @@ This page is where I give updates about what goes on with my life. Original idea
 
 - Flash Doll Review
 
+- Late Halloween Post
+
 
 
 ### 🐦‍ Living
 
-Saw a bunch of flamingos and had to rescue a pet fish that got trapped in an aquarium decoration somehow
+There´s been a storm out I´ve been spending more time at home lately
