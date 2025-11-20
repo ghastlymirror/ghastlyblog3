@@ -29,7 +29,7 @@ This page is where I give updates about what goes on with my life. Original idea
 - [**Rocky Road to Dublin**](https://www.youtube.com/watch?v=tMFvPXklQyU) - High Kings
 - [**I Lied to You**](https://www.youtube.com/watch?v=87Xx_PQFLk8) - Sinners Soundtrack
 - [**Divine**](https://www.youtube.com/watch?v=jN1lr07nCvA) -  Taku Takahashi
-- [**King Kunta](https://www.youtube.com/watch?v=AC4bb9Q9-04) - Kendrick Lamar
+- [**King Kunta**](https://www.youtube.com/watch?v=AC4bb9Q9-04) - Kendrick Lamar
 
 ### 💡 Creating
 - Creating a page about Vasslord for my neocities website
