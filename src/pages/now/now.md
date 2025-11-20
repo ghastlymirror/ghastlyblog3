@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 6th November 2025
+**Last Update:** 20th November 2025
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Warioware Inc, Fusion Fall, Medievil, Hollywood Monsters
+ Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Warioware Inc, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, South Park, Dark Shadows, Talamasca
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, South Park, Dark Shadows, Talamasca, Fiona and Cake
 
 ### 📖 Reading
  Vigilant by James A. Gardner, Case Study of Sherlock Holmes
@@ -25,11 +25,11 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🎸 Music
 
-- [**Hunting Soul**](https://www.youtube.com/watch?v=K4hNyARBf28) - Toshiro
 - [**Dead Dance**](https://www.youtube.com/watch?v=xGaZBfJOyAc&list=RDxGaZBfJOyAc&start_radio=1) - Lady Gaga
 - [**Rocky Road to Dublin**](https://www.youtube.com/watch?v=tMFvPXklQyU) - High Kings
 - [**I Lied to You**](https://www.youtube.com/watch?v=87Xx_PQFLk8) - Sinners Soundtrack
 - [**Divine**](https://www.youtube.com/watch?v=jN1lr07nCvA) -  Taku Takahashi
+- [**King Kunta](https://www.youtube.com/watch?v=AC4bb9Q9-04) - Kendrick Lamar
 
 ### 💡 Creating
 - Creating a page about Vasslord for my neocities website
@@ -52,4 +52,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-There´s been a storm out I´ve been spending more time at home lately
+Storm´s Over been on long walks birdwatching
