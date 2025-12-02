@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 27th November 2025
+**Last Update:** 2nd December 2025
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors, Gibbious: A Cthulhu Adventure, Loop Hero
+ Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors, Loop Hero, Voodoo Detective, The Cat Lady
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, South Park, Dark Shadows, Talamasca, Fiona and Cake
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, South Park, Dark Shadows, Fiona and Cake, Stranger Things
 
 ### 📖 Reading
  Vigilant by James A. Gardner, Case Study of Sherlock Holmes
@@ -48,8 +48,10 @@ This page is where I give updates about what goes on with my life. Original idea
 
 - Late Halloween Post
 
+- Gibbious Review
+
 
 
 ### 🐦‍ Living
 
-Storm´s Over been on long walks birdwatching
+Been organizing my photography portfolio also Stormy weather is back again
