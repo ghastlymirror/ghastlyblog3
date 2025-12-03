@@ -46,8 +46,6 @@ This page is where I give updates about what goes on with my life. Original idea
 
 - Flash Doll Review
 
-- Late Halloween Post
-
 - Gibbious Review
 
 
