@@ -14,6 +14,7 @@ tags:
     - puzzle
     - visual novel
     - backlog
+    - retro
 toc: true
 donate: true
 comment: true
