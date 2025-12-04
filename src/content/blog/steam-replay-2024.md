@@ -6,8 +6,14 @@ ogImage: /images/2024/steamreplay2024.png
 category:
     - gaming
     - review
+     - backlog
 tags:
-    - backlog
+   - rpg
+   - simulation
+   - metroidvania
+   - racing
+   - rhythm
+   - arcade
     
 toc: true
 donate: true

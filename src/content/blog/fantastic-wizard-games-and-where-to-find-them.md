@@ -6,7 +6,7 @@ category:
   - gaming
 tags:
   - indie
-  - rpgs
+  - rpg
   - simulation
   - adventure
   - puzzle

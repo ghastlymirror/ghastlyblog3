@@ -4,6 +4,7 @@ date: 2025-12-03
 category:
     - gaming
     - review
+    - backlog
 tags:
     - action
     - adventure
@@ -13,7 +14,6 @@ tags:
     - mobile
     - puzzle
     - visual novel
-    - backlog
     - retro
 toc: true
 donate: true
