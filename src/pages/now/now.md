@@ -18,7 +18,7 @@ This page is where I give updates about what goes on with my life. Original idea
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, Dark Shadows, Fiona and Cake, Stranger Things, Twisted Wonderland the Animation
 
 ### 📖 Reading
- Vigilant by James A. Gardner, Case Study of Sherlock Holmes
+ Vigilant by James A. Gardner
 
 ### 🎙️ Podcasts 
  The Adventure Zone, Murray Mysteries, [**The Holmwood Foundation**](https://shows.acast.com/667084e3abc94e79816dfa56/episodes/67bc412db628e470d3e69019?)
