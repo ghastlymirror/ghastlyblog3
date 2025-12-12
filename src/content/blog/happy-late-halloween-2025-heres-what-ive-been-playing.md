@@ -20,7 +20,7 @@ donate: true
 comment: true
 ogImage: /images/2025/vampiresurvivors.jpg
 heroImage: /images/2025/skullygraves.jpg
-description: I was supposed to upload this in Octorber but life got in my way so consider this my  late halloween/christmas celebration and what I´ve played.
+description: I was supposed to upload this in October but life got in my way so consider this my  late halloween/christmas celebration and what I´ve played.
 ---
 
  I was gonna upload this last October maybe in November , but life got in the way so consider this my late Halloween/Christmas Hybrid celebration.
