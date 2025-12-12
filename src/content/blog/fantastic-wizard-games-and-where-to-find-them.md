@@ -86,7 +86,7 @@ This being an older DS game, you can either try to buy it second hand or just pl
 
 This game has probably been talked about in other places but it still deserves a mention here.
 
-Ikenfell is an isometric rpg with a magic school setting where the main character, a girl named Maritte is searching for her sister, and despite starting off with no powers, she finds out she has magic to and along with a group of friends goes ot investigate some mystrious happenings around campus.
+Ikenfell is an isometric rpg with a magic school setting where the main character, a girl named Maritte is searching for her sister, and despite starting off with no powers, she finds out she has magic too and along with a group of friends goes to investigate some mysterious happenings around campus.
 
 The games has similar gameplay to another titles like Paper Mario, you gotta move you´re character across the battle board and attacks are timed. There´s also no random encounters and you can avoid enemies if you want to.
 
@@ -129,7 +129,7 @@ That is what you get in this management game, players will be expected to build 
 
 The fun part is that you´re at complete liberty to run the school whichever you please, maybe you wish to train future adventurers or make a dark magic school. There´s even choosing the look of the school and even what creatures you want to populate it with.
 
-That being said you manage the facilities through a deck system, different decks can acess acording to the type of magic taguht there.
+That being said you manage the facilities through a deck system, different decks can acess acording to the type of magic taught there.
 
 Not to mention running a school is the least of your worries, you will be expected to protect it from hordes of monsters, and there´s a lot of multiple choice events which will force you to deal with different factions, from evil dark lords to obnoxious student councils.
 
