@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 12th December 2025
+**Last Update:** 15th December 2025
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady
+ Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, Dark Shadows, Fiona and Cake, Stranger Things, Twisted Wonderland the Animation
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, Dark Shadows, Fiona and Cake, Stranger Things, Twisted Wonderland the Animation, Pluribus
 
 ### 📖 Reading
  Vigilant by James A. Gardner
