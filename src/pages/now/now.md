@@ -7,7 +7,7 @@ title: " "
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 22nd December 2025
+**Last Update:** 23rd December 2025
 
 
 ### 🎮 Playing
@@ -49,8 +49,6 @@ This page is where I give updates about what goes on with my life. Original idea
 - Gibbious Review
 
 - Voodoo Detective Review
-
-- Home Safety Hotline
 
 - Organizing my Photography Portfolio
 
