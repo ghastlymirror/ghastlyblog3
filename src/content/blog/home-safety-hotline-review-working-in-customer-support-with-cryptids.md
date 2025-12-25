@@ -110,7 +110,7 @@ There is no promotion in store but instead the main objective to keep up the Chr
 
 Appropriate for the season the supernatural household hazards that will you have to deal with not only take inspiration from your typical holiday staples like Santa Claus, but they even take inspiration from cultural traditions from European countries. So yes, staples like the Yule Cat and Krampus will be there.
 
-And of course you´ll probably will never look at Rudolph the Red-Nose Render the same ever again.
+And of course you´ll probably will never look at Rudolph the Red-Nose Rendeer the same ever again.
 
 ![An entry describing a creature called a Gift Hag, a creature who looks like a creepy old lady only that she delivers presents in the forms of makeshift dolls, wooden idols or rocks](/images/2025/hotlinegifthag.png#center)
 
@@ -121,7 +121,7 @@ Of course, the good ending is even funnier with the typical shenanigans you woul
 
 That is what I loved about this title so much its mixes what be a bleak scenario in any other story and embraces the ridiculous aspects.
 
-Taking in account the season and that most digital gaming stores are having winter sales at the moment this the perfect time to pick up this game.
+Taking in account the season and that most digital gaming stores are having winter sales at the moment this is the perfect time to pick up this game.
 
 ## Final thoughts
 
