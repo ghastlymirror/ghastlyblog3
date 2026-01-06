@@ -29,6 +29,7 @@ This place started life as a wordpress.com blog in 2022, and has since changed h
  I simply wanted to get into traditional long form blogging, as an alternative to just using social media all the time to express myself. 
 What kinda of posts you can expect to see: gaming reviews (new and retro), playthroughts, photography and any other of my personal projects.
 
+
 ### Sister Site:
  <a href="https://creaturefeature.neocities.org/"><img src="/creaturefeaturebutton.png" title="Creature Feature: an Halloween Personal Website"></a>
 

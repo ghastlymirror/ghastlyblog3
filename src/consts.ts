@@ -193,7 +193,7 @@ export const infoLinks = [
  */
 export const donate = {
   enable: true,
-  tip: "Thanks for reading. If would like to support this blog, feel free to send me a tip below! ☕",
+  tip: "Thanks for reading. If you would like to support this blog, feel free to send me a tip below! ☕",
 
   kofiUrl: "https://ko-fi.com/ghastlymirror",
 }
