@@ -11,7 +11,7 @@ ogImage: /images/blog/blaugust2025tpbk2.png
 toc: true
 donate: true
 comment: true
-description: This Post Mark the Begining of my participation during Blaugust  and what I´m hopping to get from this. Iwas gonna do it earlier, but better late than never
+description: This Post Mark the Beginning of my participation during Blaugust  and what I´m hopping to get from this. Iwas gonna do it earlier, but better late than never
 ---
 ![Blaugust 2025 Festival of Blogging](/images/blog/blaugust2025tpbk2.png)
 

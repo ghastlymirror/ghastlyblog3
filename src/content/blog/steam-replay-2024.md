@@ -6,7 +6,7 @@ ogImage: /images/2024/steamreplay2024.png
 category:
     - gaming
     - review
-     - backlog
+    - backlog
 tags:
    - rpg
    - simulation

@@ -13,7 +13,7 @@ category:
     - gaming
 ogImage: /images/blog/blaugust2025tpbk2.png
 heroImage: /images/blog/blaugust2025tpbk2.png
-description: This  isthe last day of Blaugust. I promised I would try my best  to write as much as I could. So How did I got, and what i did this August?
+description: This  is the last day of Blaugust. I promised I would try my best  to write as much as I could. So How did I got, and what i did this August?
 ---
 ![Blaugust 2025 festival of Blogging](/images/blog/blaugust2025tpbk2.png)
 
@@ -62,7 +62,7 @@ Plus the pain of having to use [citrahold](https://www.citrahold.com/) to synchr
 
 But for the rest? First, I have to hunt a device, that only works or least in decent amount of condition, physical game copies and make sure I´m not overpaying for it. Because have you seen the state of the retro gaming market? It´s like they want to pay an arm and leg for it? Sure there are ways to buy retro without breaking the budget. 
 
-But it requires a lot of time, effort, bit of luck, like coming across a second-hand game store, an antiques fair (I only found playstation 3 games in there no consoles though) and maybe someone who is just looking to get rid of their huge collection.
+But it requires a lot of time, effort, bit of luck, like coming across a second-hand game store, an antiques fair and maybe someone who is just looking to get rid of their huge collection.
 
 And even that, I know I´m want mod it. Take the psp for example. I will have to at least buy an sd card adapter, do something with the battery, jailbreak the darn thing. While its not impossible, its still a lot of work in order to make this handheld perfect for modern use. rather than just play games on one that already works for me right from the start.
 
@@ -140,6 +140,6 @@ I fully regret not taking a picture of it. It had some scratches on the gem pend
 
 Seriously if you want to go on a wacky adventure I do recomend going to these kinds of fairs, just so you could off the wall stuff like this.
 
-## With That This Ends My Particaption In Blaugust 2025
+## With That This Ends My Participation In Blaugust 2025
 
 As with most things it was fun while it lasted. Soon fallwill be upon us, and eventually sweater weather and then Halloween, which I´m looking foward. To those who participated I had fun reading your posts and see you all next Blaugust.
