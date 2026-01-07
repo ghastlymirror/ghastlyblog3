@@ -1,7 +1,6 @@
 ---
 title: "Happy New Year!: Sharing My Steam Replay 2025 and More"
 date: 2026-01-07
-draft: true
 toc: true
 donate: true
 comment: true
