@@ -1,7 +1,7 @@
 {
   "name": "astro-blog",
   "type": "module",
-  "version": "0.0.16",
+  "version": "0.0.18",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -10,16 +10,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.1",
-    "@astrojs/rss": "^4.0.12",
-    "@astrojs/sitemap": "^3.4.2",
+    "@astrojs/mdx": "^4.3.13",
+    "@astrojs/rss": "^4.0.14",
+    "@astrojs/sitemap": "^3.6.1",
     "@astrojs/tailwind": "^6.0.2",
     "@expressive-code/plugin-collapsible-sections": "^0.33.5",
     "@expressive-code/plugin-line-numbers": "^0.33.5",
     "@fancyapps/ui": "^5.0.35",
     "@waline/client": "^3.1.3",
-    "astro": "^5.12.4",
+    "astro": "^5.16.8",
     "astro-expressive-code": "^0.33.5",
+    "baseline-browser-mapping": "2.9.14",
     "child_process": "^1.0.2",
     "dayjs": "^1.11.13",
     "dompurify": "^3.2.4",
@@ -29,9 +30,8 @@
     "mdast-util-to-string": "^4.0.0",
     "reading-time": "^1.5.0",
     "remark-directive": "^3.0.0",
-    "remixicon": "^4.6.0",
+    "remixicon": "^4.8.0",
     "tailwindcss": "^3.4.1",
-    "tocbot": "^4.25.0",
     "typescript": "^5.4.2",
     "unist-util-remove": "^4.0.0",
     "unist-util-visit": "^5.0.0"
