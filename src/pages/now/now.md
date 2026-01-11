@@ -7,12 +7,12 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 1st January 2026
+**Last Update:** 11st January 2026
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw
+ Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
 
 ### 📺 Watching
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, Dark Shadows, Fallout, The Mighty Nein
