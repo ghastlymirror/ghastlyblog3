@@ -7,7 +7,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 11st January 2026
+**Last Update:** 11th January 2026
 
 
 ### 🎮 Playing
