@@ -1,5 +1,5 @@
 ---
-title: "Misadventures in Linux: Fixing the GNU GRUB Boot Screen"
+title: "Misadventures in Linux: Getting GRUB To Work"
 date: 2026-01-13
 toc: true
 donate: true
@@ -29,9 +29,9 @@ And for a while it worked fine, no complaints whatsoever, then one day I try to 
 
 ![a black computer screen on the top its says GNU GRUB version 2.06. On the bottom its says Minimal BASH-like line editing is supported. For the first word, TAB lists possible command completions. Anywhere else TAB lists possible device or file completions. grub>](/images/2026/grubrescue.jpg#center)
 
-Man, I was so lost, just what the heck is this!? GNU, how do I get out of here and boot into my OS?
+Man, I was so lost, just what the heck is this!? GNU? How do I get out of here and boot into my OS?
 
-This ended me do a full on search and maybe waste a whole afternoon trying to make heads or tails of this.
+This forced me to do a full on search and maybe waste a whole afternoon trying to make heads or tails of this.
 
 So, what I´ve found is that this was happening because one of the boot files got corrupted, probably after I updated it. I booted Mint from my usb me drive and found that yes, all my files and my installed system is still there and acessible.
 
@@ -66,7 +66,7 @@ Ok so I mount through another way, turns out there´s a disk program you can cli
 
 Ok so can get you try get into Chroot system? Nope. can you reinstall Grub to the correct disk? Nope again.
 
-I´m either missing something or soemthing really went wrong with my file system.
+I´m either missing something or something really went wrong with my file system.
 
 ## Option 3: Grub Rescue Mode
 
@@ -104,6 +104,12 @@ I was lucky enough to have had set it up to take snapshots automatically special
 No over complicated commands, no having to reinstall linux and having to install all the apps again (including setting up video codecs for the dvds).
 
 I´m sure other might have a better methods for this, but I´m just showing what worked for me.
+
+:::tip[Update 15/01/2026]
+Thanks to [@HereToChewGum@fosstodon.org](https://blorbo.social/@HereToChewGum@fosstodon.org) for this tip.
+
+The simplest way is to type *update-grub* when you see the screen prompt, which will reconfigure GRUB. Turns out I´m able to see this prompt because GRUB is already installed and working.
+:::
 
 
 ## Lessons Learned
