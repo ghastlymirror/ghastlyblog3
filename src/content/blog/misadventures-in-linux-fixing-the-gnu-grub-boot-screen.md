@@ -89,7 +89,7 @@ initrd boot/initrd.img
 boot
 ```
 
-ok so  the *ls*  command allows me to my partitions and what´s in them, *set root* allows me to set my root partition, and finally loading the kernel and then disk image.
+ok so  the *ls*  command allows me to see my partitions and what´s in them, *set root* allows me to set my root partition, and finally loading the kernel and then disk image.
 
 By the way I had to take note of the names and location of those files which where in the boot folder in my system files, which I did by booting up my usd pen again to see where it was, otherwise I wouldn´t get any results.
 
