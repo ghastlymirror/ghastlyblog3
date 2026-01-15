@@ -89,9 +89,9 @@ initrd boot/initrd.img
 boot
 ```
 
-ok so  the *ls*  command allows me to my partitions and what´s in them, set root allows me to set my root partition, and finally loading the kernel and then disk image.
+ok so  the *ls*  command allows me to my partitions and what´s in them, *set root* allows me to set my root partition, and finally loading the kernel and then disk image.
 
-By the way I had to take note of the names and location of those files which where in the boot folder in mysystem files, which I did by booting up my usd pen again to see where it was, other I wouldn´t get any results.
+By the way I had to take note of the names and location of those files which where in the boot folder in my system files, which I did by booting up my usd pen again to see where it was, otherwise I wouldn´t get any results.
 
 And it worked! I booted in Linux! Hooray!
 
@@ -101,7 +101,7 @@ Remember when I mentioned that maybe one of grub boot files maybe have been corr
 
 I was lucky enough to have had set it up to take snapshots automatically specially before it got corrupted, so I clicked restore, waited several minutes while it did its thing, and now everything is back to normal.
 
-No over complicated commands, no having to reinstall linux and having to install all the apps againg (including setting up video codecs for the dvds).
+No over complicated commands, no having to reinstall linux and having to install all the apps again (including setting up video codecs for the dvds).
 
 I´m sure other might have a better methods for this, but I´m just showing what worked for me.
 
