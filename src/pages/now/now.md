@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 21st January 2026
+**Last Update:** 2nd Febuary 2026
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Fusion Fall, Medievil, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
+ Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, Dark Shadows, Fallout, The Mighty Nein, Trigun Stargaze
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, Dark Shadows, Fallout, The Mighty Nein, Trigun Stargaze, Knight of the Seven Kingdoms
 
 ### 📖 Reading
  Vigilant by James A. Gardner
@@ -25,7 +25,6 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🎸 Music
 
-- [**Dead Dance**](https://www.youtube.com/watch?v=xGaZBfJOyAc&list=RDxGaZBfJOyAc&start_radio=1) - Lady Gaga
 - [**Rocky Road to Dublin**](https://www.youtube.com/watch?v=tMFvPXklQyU) - High Kings
 - [**Divine**](https://www.youtube.com/watch?v=jN1lr07nCvA) -  Taku Takahashi
 - [**King Kunta**](https://www.youtube.com/watch?v=AC4bb9Q9-04) - Kendrick Lamar
@@ -56,4 +55,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-Trying to figure out a new a source of income, also got stuck in home all day due to the weather
+Still haven´t been able to go outdoors due to the crazy weather we´re having
