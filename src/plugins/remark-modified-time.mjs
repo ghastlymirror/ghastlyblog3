@@ -25,4 +25,3 @@ export function remarkModifiedTime() {
     file.data.astro.frontmatter.readingTime = getReadingTime(textOnPage,);
   };
 }
-
