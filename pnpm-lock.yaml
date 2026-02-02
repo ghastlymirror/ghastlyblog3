@@ -38,9 +38,6 @@ importers:
       astro-expressive-code:
         specifier: ^0.33.5
         version: 0.33.5(astro@5.16.15(jiti@1.21.0)(rollup@4.40.2)(sass@1.72.0)(typescript@5.4.2))
-      baseline-browser-mapping:
-        specifier: 2.9.14
-        version: 2.9.14
       child_process:
         specifier: ^1.0.2
         version: 1.0.2
@@ -90,6 +87,9 @@ importers:
       '@types/lodash-es':
         specifier: ^4.17.12
         version: 4.17.12
+      baseline-browser-mapping:
+        specifier: 2.9.14
+        version: 2.9.14
       sass:
         specifier: ^1.72.0
         version: 1.72.0
