@@ -50,4 +50,3 @@ export  let cs = {
   'more': 'Více'
 }
 
-

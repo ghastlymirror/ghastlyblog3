@@ -24,7 +24,7 @@ export  const en = {
   'home.readMore': 'Read more',
   'home.sticky': 'Sticky',
   'message.welcome': 'Welcome',
-  'message.welcomeTips': 'Got some feedback? Know a game I should check out? Or you just simply wanna say hi, just use the form below!',
+  'message.welcomeTips': 'Leave a footprint!',
   'memos.loadMore': 'Load more',
   'pagination.total':'Total',
   'pagination.unit': 'Pages',
