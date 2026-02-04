@@ -13,6 +13,8 @@ heroImage: /images/blog/paliapets.jpg
 donate: true
 toc: true
 comment: true
+preview: The irony of me making a Palia review and mentione missing features only for shortly after  got a brand new update!
+description: After discussing about Palia´s missing features  and servers being fown for maintenance I just received news of a brand new update!
 ---
  ![screenshot of colorful creatures that look like cats](/images/blog/paliapets.jpg)
 

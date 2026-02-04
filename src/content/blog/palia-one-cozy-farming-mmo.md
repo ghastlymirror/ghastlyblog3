@@ -13,7 +13,7 @@ heroImage: /images/blog/palia.jpg
 toc: true
 donate: true
 comment: true
-description: What Happens if you mix the gameplay Stardew Valley,  Animal Crossing and the aesthetic of Breath of the Wild? This is the result
+description: What Happens if you mix the gameplay Stardew Valley,  Animal Crossing and the aesthetic of Breath of the Wild? This is the result.
 preview: What Happens if you mix the gameplay Stardew Valley,  Animal Crossing and the aesthetic of Breath of the Wild? This is the result.
 ---
 
