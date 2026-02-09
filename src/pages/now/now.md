@@ -15,7 +15,7 @@ This page is where I give updates about what goes on with my life. Original idea
  Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Fallout, The Mighty Nein, Trigun Stargaze, Knight of the Seven Kingdoms
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Fallout, The Mighty Nein, Trigun Stargaze, Knight of the Seven Kingdoms s
 
 ### 📖 Reading
  Vigilant by James A. Gardner
