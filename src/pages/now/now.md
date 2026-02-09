@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 2nd Febuary 2026
+**Last Update:** 9th February 2026
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Flash Doll, Yokai Watch, Powerwash Simulator, Persona, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
+ Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Doctor Who, Dark Shadows, Fallout, The Mighty Nein, Trigun Stargaze, Knight of the Seven Kingdoms
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Fallout, The Mighty Nein, Trigun Stargaze, Knight of the Seven Kingdoms
 
 ### 📖 Reading
  Vigilant by James A. Gardner
@@ -25,10 +25,11 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🎸 Music
 
-- [**Rocky Road to Dublin**](https://www.youtube.com/watch?v=tMFvPXklQyU) - High Kings
 - [**Divine**](https://www.youtube.com/watch?v=jN1lr07nCvA) -  Taku Takahashi
 - [**King Kunta**](https://www.youtube.com/watch?v=AC4bb9Q9-04) - Kendrick Lamar
 - [**Slither**](https://youtu.be/BKz2U4fvA4U?si=SHqmaxqul0pWw9kz) - Velvet Revolver
+- [**Cities In Dust**](https://www.youtube.com/watch?v=wsOHvP1XnRg) - Siousxie and the Banshees
+
 
 ### 💡 Creating
 - Creating a page about Vasslord for my neocities website
@@ -55,4 +56,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-Still haven´t been able to go outdoors due to the crazy weather we´re having
+Start getting really into Goth and Post-Punk music, also it seems like I´ve only been able to go out once a week because of all these crazy storms lately.
