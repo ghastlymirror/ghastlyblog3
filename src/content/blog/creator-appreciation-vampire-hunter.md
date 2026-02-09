@@ -14,6 +14,7 @@ heroImage: /images/blog/vampire-hunter-d.jpg
 comment: true
 donate: true
 toc: true
+description: I decided to talk about a book series  I´ve into these past months. The Vampire Hunter D Light Novels and the Two Men behind them.
 ---
  ![The Vampire Hunter D who is a beautiful pale man with long dark hair and a wide brim hat catching an arrow](/images/blog/vampire-hunter-d.jpg)
 
