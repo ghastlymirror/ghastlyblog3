@@ -29,7 +29,7 @@ But if you´re more of a solo player, there stuff in the there for you too like 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-k_JPei0YNc?si=0VciF0yighnVsnfG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-All in all for a good cause. This bundle be available until 13 March for those interested.
+All in all for a good cause. This bundle will be available until 13 March for those interested.
 
 ## Bundle Link
 

@@ -7,12 +7,12 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 25th February 2026
+**Last Update:** 4th March 2026
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Vampire Survivors, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami, Hotel Dusk: Room 215
+ Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami, Hotel Dusk: Room 215
 
 ### 📺 Watching
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Fallout, The Mighty Nein, Trigun Stargaze 
@@ -56,4 +56,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-Start getting really into Goth and Post-Punk music, also it seems like I´ve only been able to go out once a week because of all these crazy storms lately.
+Getting into Goth, Post-Punk and even Visual Key Music, the weather has started to improve somewhat so i can go on my hikes a bit more.
