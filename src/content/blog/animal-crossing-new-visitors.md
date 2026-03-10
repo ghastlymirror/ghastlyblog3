@@ -16,7 +16,7 @@ donate: true
 toc: true
 description: |-
   More New Hapennings at Batvale!
-  Since playing a bit more I´ve unlocked fishing,  got new villagers and articiapted in a very special event.
+  Since playing a bit more I´ve unlocked fishing,  got new villagers and particiapted in a very special event.
 ---
 ![Animal Crossing](/images/blog/animal-crossing-startscreen.jpg)
 
