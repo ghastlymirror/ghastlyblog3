@@ -1,7 +1,7 @@
 ---
 title: "Creator Appreciation Week: Vampire Hunter D"
 date: 2023-08-17
-categories:
+category:
   - blogging
   - other media
 tags:
