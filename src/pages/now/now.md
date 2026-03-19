@@ -56,4 +56,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-Got back into photography more after a months hiatus
+Figure out how to open up a laptop just to clean the dust from a fun and put new theraml paste
