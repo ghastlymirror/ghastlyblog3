@@ -7,7 +7,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 19th March 2026
+**Last Update:** 20th March 2026
 
 
 ### 🎮 Playing
@@ -15,7 +15,7 @@ This page is where I give updates about what goes on with my life. Original idea
  Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Trigun Stargaze 
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Trigun Stargaze, Invincible 
 
 ### 📖 Reading
  Vigilant by James A. Gardner
