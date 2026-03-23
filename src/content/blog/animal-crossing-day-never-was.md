@@ -39,7 +39,7 @@ Another interesting thing, is that sometimes the ground is glowing and if you di
 If you haven´t heard about this trick, is that every day a different rock will give out bell if you hit it with a shovel. Of course the best way to do it is to dig a hole behind you and on your side in order to maximise the number of bells.
 
 ![villager digging a bag of bell.
-The ballon says.
+The balloon says.
 Check it out! I dug up 1,000 Bells!](/images/2023/Screenshot_2023-08-06-20-30-21-920_org.dolphinemu.dolphinemu.md.jpeg#center "Treasure Hunting here we go.")
 
 
