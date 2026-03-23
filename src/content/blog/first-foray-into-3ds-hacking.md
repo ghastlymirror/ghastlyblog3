@@ -12,6 +12,7 @@ ogImage: /images/blog/3ds.jpg
 toc: true
 donate: true
 comment: true
+description: This has been something I´ve wanted to do for some time, to pick up an gaming handheld and mod it beyond its original capacity and do  whatever I want with it.
 ---
 
 ![A 3ds Gaming Hanheld](/images/blog/3ds.jpg)
