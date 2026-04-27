@@ -7,7 +7,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 22th April 2026
+**Last Update:** 27th April 2026
 
 
 ### 🎮 Playing
@@ -15,7 +15,7 @@ This page is where I give updates about what goes on with my life. Original idea
  Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier The Testaments, The Boys 
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier The Testaments, The Boys, The Mighty Boosh 
 
 ### 📖 Reading
  Vigilant by James A. Gardner, Invicible (comics)
@@ -56,4 +56,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-I just got new pet fish and visited a bird enclosure
+Been House Hunting Lately, found a decent place that suits my needs
