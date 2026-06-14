@@ -7,15 +7,15 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 3rd June 2026
+**Last Update:** 14th June 2026
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami, Guild Wars Reforged, World of Warcraft
+ Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami, Guild Wars Reforged, World of Warcraft, Rythm Thief
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier, The Mighty Boosh, Rick and Morty
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier, The Mighty Boosh, Rick and Morty, The Vampire Lestat
 ### 📖 Reading
  Vigilant by James A. Gardner
 
@@ -24,10 +24,10 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🎸 Music
 
-- [**Divine**](https://www.youtube.com/watch?v=jN1lr07nCvA) -  Taku Takahashi
 - [**King Kunta**](https://www.youtube.com/watch?v=AC4bb9Q9-04) - Kendrick Lamar
 - [**Slither**](https://youtu.be/BKz2U4fvA4U?si=SHqmaxqul0pWw9kz) - Velvet Revolver
-- [**Cities In Dust**](https://www.youtube.com/watch?v=wsOHvP1XnRg) - Siousxie and the Banshees
+- [**Black Licorice**](https://www.youtube.com/watch?v=JpWZ880nkEk) - Daniel Hart Ft Sam Reid
+
 
 
 ### 💡 Creating
@@ -55,4 +55,4 @@ This page is where I give updates about what goes on with my life. Original idea
 
 ### 🐦‍ Living
 
-Probably going to move to a new place soon
+Started cleaning my new place to make it more livable
