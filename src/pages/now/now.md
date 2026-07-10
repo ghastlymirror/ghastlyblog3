@@ -7,7 +7,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 9th July 2026
+**Last Update:** 10th July 2026
 
 
 ### 🎮 Playing
@@ -15,7 +15,7 @@ This page is where I give updates about what goes on with my life. Original idea
  Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami, Guild Wars Reforged, World of Warcraft, Rythm Thief, Vampire Therapist
 
 ### 📺 Watching
- King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier, The Mighty Boosh, Rick and Morty, The Vampire Lestat
+ King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier, The Mighty Boosh, Rick and Morty, The Vampire Lestat, House of the Dragon
 ### 📖 Reading
 Buffalo Hunter Hunter
 
@@ -24,9 +24,12 @@ Buffalo Hunter Hunter
 
 ### 🎸 Music
 
-- [**King Kunta**](https://www.youtube.com/watch?v=AC4bb9Q9-04) - Kendrick Lamar
-- [**Slither**](https://youtu.be/BKz2U4fvA4U?si=SHqmaxqul0pWw9kz) - Velvet Revolver
 - [**Black Licorice**](https://www.youtube.com/watch?v=JpWZ880nkEk) - Daniel Hart Ft Sam Reid
+- [**Eat Your Young**](https://youtu.be/e6LM0sIA_Eg) - Hozier
+- [**Dracula**](https://youtu.be/xnP7qKxwzjg) -Tame Impala
+- [**Teeth**](https://youtu.be/nVoWm0YcXuQ) - Enhypen
+- [**93 til Infinity**](https://youtu.be/fXJc2NYwHjw) - Soul Of Mischief
+- [**Curtain Fall**](https://youtu.be/MjiSPX9zAsM) - Blue
 
 
 
