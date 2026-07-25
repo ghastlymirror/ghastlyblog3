@@ -12,7 +12,7 @@ tags:
 toc: true
 donate: true
 comment: true
-preview: |-
+description: |-
     Greetings, It´s en a minute since I last posed.
     August is Coming and you know what means... Yes I´m Tlking about the Blogging even Blaugust
 ---
