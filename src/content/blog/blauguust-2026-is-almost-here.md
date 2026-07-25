@@ -1,5 +1,5 @@
 ---
-title: Blauguust 2026 Is Almost Here!
+title: Blaugust 2026 Is Almost Here!
 date: 2026-07-25
 heroImage: /images/blog/blaugustplusconstellations.png
 ogImage: /images/blog/blaugustplusconstellations.png
