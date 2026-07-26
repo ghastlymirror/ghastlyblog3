@@ -7,17 +7,17 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 25th July 2026
+**Last Update:** 26th July 2026
 
 
 ### 🎮 Playing
 
- Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami, Guild Wars Reforged, World of Warcraft, Rythm Thief,Potion Permit
+ Twisted Wonderland, Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw, Yakuza Kiwami, Guild Wars Reforged, World of Warcraft, Rythm Thief, Potion Permit
 
 ### 📺 Watching
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier, The Mighty Boosh, Rick and Morty, House of the Dragon
 ### 📖 Reading
-Buffalo Hunter Hunter
+Buffalo Hunter Hunter, Cucko by Gretchen Felker Martin
 
 ### 🎙️ Podcasts 
  The Adventure Zone, Murray Mysteries, [**The Holmwood Foundation**](https://shows.acast.com/667084e3abc94e79816dfa56/episodes/67bc412db628e470d3e69019?)
