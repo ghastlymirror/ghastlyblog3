@@ -13,7 +13,7 @@ toc: true
 donate: true
 comment: true
 description: |-
-    Greetings, It´s en a minute since I last posed.
+    Greetings, It´s been a minute since I last posed.
     August is Coming and you know what means... Yes I´m Talking about the Blogging event Blaugust
 ---
 ![Blaugust 2026 Festival of Blogging](/images/blog/blaugustplusconstellations.png)
