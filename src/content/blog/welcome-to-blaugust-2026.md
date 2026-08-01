@@ -16,9 +16,9 @@ description: Yes, August is finally here and with it starts my participation on 
 ---
 ![Blaugust 2026](/images/blog/blaugustplusconstellations.png)
 
-Yes, August is finally here and with it starts my participation on this year´s Blaugust event. Now`ve alright talked about it entails, so I´ll refer to [my previous post](/blog/nlauguust-2026-is-almost-here) if you haven´t read it already.
+Yes, August is finally here and with it starts my participation on this year´s Blaugust event. Now I`ve alright talked about it entails, so I´ll refer to [my previous post](/blog/nlauguust-2026-is-almost-here) if you haven´t read it already.
 
-Normally whenever I start this event I usually make some small reflection about what do I want out of this and how am i going about this..
+Normally, whenever I start this event I usually make some small reflection about what do I want out of this and how am i going about this..
 
 And my answer to that? Probably bond with fellow bloggers and maybe get some extra eyes on my blog, which is usually more around this time of the year, perhaps I am more active and people prefer blog who are always updating at a frequent pace.
 
