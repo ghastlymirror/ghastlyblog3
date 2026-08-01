@@ -43,7 +43,7 @@ This concludes the end of this post see, Happy Blaugust and i´ll yall in the ne
 
 ### Blogs Talking About Blaugust
 - [And Off We Go!](https://bhagpuss.blogspot.com/2026/08/and-off-we-go.html) - Inventory Full
-- [Welcome to Blaugust 2026](https://www.bytevortex.tech/welcome-to-blaugust-2026/) - By the Vortex
+- [Welcome to Blaugust 2026](https://www.bytevortex.tech/welcome-to-blaugust-2026/) - Byte Vortex
 - [Bombanana!](https://blog.gridranger.dev/bombanana/) - Grid Ranger
 - [Meet the Mentors and Participants List](https://nerdgirlthoughts.game.blog/2026/08/01/blaugust-2026-meet-the-mentors-participant-list/) - Nerdy Girl Thoughts
 - [Summer in Japan, Summer on Blogs](https://26g.netlify.app/posts/2026-08-01/) - 26g (Blog in Japanese, I recomend using a translator)
