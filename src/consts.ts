@@ -166,7 +166,7 @@ export const infoLinks = [
   {
     icon: 'ri-bluesky-fill',
     name: 'bluesky',
-    outlink: 'https://bsky.app/profile/creaturefeature.blorbo.social.ap.brid.gy',
+    outlink: 'https://bsky.app/profile/ghastlymirror.bsky.social',
   },
 
   
