@@ -49,4 +49,5 @@ This concludes the end of this post see, Happy Blaugust and i´ll yall in the ne
 - [Summer in Japan, Summer on Blogs](https://26g.netlify.app/posts/2026-08-01/) - 26g (Blog in Japanese, I recomend using a translator)
 - [Join Balugust 2026](https://wakupanbouquet.hatenablog.com/entry/2026/08/01/103609) -Wakupan Bouquet (also in Japanese)
 - [Welcome to Blaugust 2026](https://aywren.com/2026/08/01/welcome-to-blaugust-2026/) -Aywren´s Nook
+- [Blaugust 2026 and AI](https://indiecator.org/2026/07/27/blaugust-2026-and-ai/) - Indiecator
 - 
