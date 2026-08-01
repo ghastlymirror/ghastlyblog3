@@ -1,6 +1,6 @@
 ---
 title: Welcome to Blaugust 2026
-pubDate: 2026-08-01
+date: 2026-08-01
 ogImage: /images/blog/blaugustplusconstellations.png
 heroImage: /images/blog/blaugustplusconstellations.png
 comment: true
