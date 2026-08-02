@@ -14,6 +14,7 @@ tags:
     - simulation
     - visual novel
     - educational
+    - rhythm
 description: Hello and Welcome t this Blog´s annual "What have  been playing this Summer!" With this season still going, I´d figure i´d figure I´d share what I´m playing.
 comment: true
 donate: true
@@ -100,7 +101,7 @@ But seriously if anyone here reading is also playing guild wars, I wanna ask if 
 **Game Links:**
  :btn[**Official Store**]{href="https://www.guildwars.com/en/"}
 
-## Rythm Thief
+## Rhythm Thief
 
 ![Rythm Thief Game Cover](/images/2026/RythmThief.jpg#medium)
 
