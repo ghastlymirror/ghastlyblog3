@@ -192,7 +192,7 @@ So my to play pick is
 
 Mind you this not a definitive list, it might be just ones I´m  most insterested and might get to if I have the time.
 
-This completes but full on playthrough sessions, if you´re reading this feel free to share your own personal favoirtes during this summer. I might find some gems on there.
+This completes but full on playthrough sessions, if you´re reading this feel free to share your own personal favorites during this summer below. I might find some gems on there.
 
 See ya in the next one.
 
