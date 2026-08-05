@@ -10,7 +10,7 @@ category:
 tags:
     - retro
     - blaugust
-description: Lately I´ve been sharing my 3DS with a sibling, wanting to get a second one for her this led me to the chaos of the second hand marker, here are my thoughts.
+description: Lately I´ve been sharing my 3DS with a sibling, wanting to get a second one for her this led me to the chaos of the second hand market, here are my thoughts.
 heroImage: /images/blog/3ds.jpg
 ---
 ![the photo of a 3DS Handheld](/images/blog/3ds.jpg)
