@@ -6,6 +6,7 @@ category:
     - other media
 tags:
     - blaugust
+    - writting
 ogImage: /images/blog/bookshelf.jpg
 heroImage: /images/blog/bookshelf.jpg
 comment: true
