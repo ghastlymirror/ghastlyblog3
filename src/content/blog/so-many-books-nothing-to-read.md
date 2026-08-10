@@ -12,7 +12,7 @@ heroImage: /images/blog/bookshelf.jpg
 comment: true
 donate: true
 toc: true
-description: I decided to get into collecting physical books, seeing as I´ve been enjoying them a the beach. But when I got the book fair there was a problem.
+description: I decided to get into collecting physical books, seeing as I´ve been enjoying them a the beach. But when I got to the book fair there was a problem.
 ---
 ![A shelf full of Books](/images/blog/bookshelf.jpg)
 
