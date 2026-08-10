@@ -14,7 +14,7 @@ donate: true
 toc: true
 description: I decidedvto get in collecting physical books, seeing as I´ve been enjoying them a the beach. But when I got the book fair there was a problem.
 ---
-![A shelf full of Books](/images/blog/bookshelf.jpg#center)
+![A shelf full of Books](/images/blog/bookshelf.jpg)
 
 Recently, I decided to get back into collecting physical books again, I realized that I actually enjoy reading them at the beach instead looking at a screen, and I´ve already read the books I´ve already own  for years so I´d figure why not get some new additions.
 
