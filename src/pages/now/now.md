@@ -7,7 +7,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 1th July 2026
+**Last Update:** 10th August 2026
 
 
 ### 🎮 Playing
@@ -17,7 +17,7 @@ This page is where I give updates about what goes on with my life. Original idea
 ### 📺 Watching
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows, Witch Hat Atelier, The Mighty Boosh, House of the Dragon, X-men 97, My Adventures With Superman
 ### 📖 Reading
-Buffalo Hunter Hunter, Cucko by Gretchen Felker Martin
+Buffalo Hunter Hunter, Cuckoo by Gretchen Felker Martin, Someone You Can Build A Nest In by John Wiswell
 
 ### 🎙️ Podcasts 
  The Adventure Zone, Murray Mysteries, [**The Holmwood Foundation**](https://shows.acast.com/667084e3abc94e79816dfa56/episodes/67bc412db628e470d3e69019?)
@@ -59,4 +59,4 @@ Buffalo Hunter Hunter, Cucko by Gretchen Felker Martin
 
 ### 🐦‍ Living
 
-Started painting the Walls and do some weeding, then going to the beach in the next day
+ Been Put shopping found a cute tamagotchi
