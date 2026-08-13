@@ -16,7 +16,7 @@ tags:
 ogImage: /images/2026/eclipsesea.jpg
 heroImage: /images/2026/eclipsesea.jpg
 ---
-A day but whatever. Yesterday was exciting, it marked one of the most interesting cosmic event of the century, where the moon starts slowy blocking the view of the sun until the day becomes a bit darker.
+Posted this a day later but whatever. Yesterday was exciting, it marked one of the most interesting cosmic event of the century, where the moon starts slowy blocking the view of the sun until the day becomes a bit darker.
 
 A total Eclipse you might say, well except not really its only 100% of totality in a certain part of Portugal (and other places in Europe), for example where I was the closest we got was 99%.
 
