@@ -59,4 +59,4 @@ Buffalo Hunter Hunter, Cuckoo by Gretchen Felker Martin, Someone You Can Build A
 
 ### 🐦‍ Living
 
-Sae The Eclipse, dee some more weeding
+Sae The Eclipse, did some more weeding
