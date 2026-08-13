@@ -45,3 +45,15 @@ Personally my own myth is that it´s a giant cookie monster. That´s right a big
 Jokes aside it was fun seeing it, I heard it was even more spectualar to seen it during the sunset in some areas.
 
 I´m glad I got witness it. By the way the next eclipse will be seen in 2 of August next year but it will be a partial one, so keep your eyes peeled for that one.
+
+## Special Blaugust Mentions
+
+- [oil barons hate this one cute lizard](https://luckyinstar.neocities.org/blog/duneslizard) - Lucky Instar
+- [Legion](https://wowaltaddiction.blogspot.com/2026/08/legion.html) - MMO Casual
+- [Thieving and Cheesing In Tamriel](https://casualaggro.wordpress.com/2026/08/11/thieving-and-cheesing-in-tamriel/) - Casual Aggro
+- [Blue mammals: Once in a Blue Moon](https://luckyinstar.neocities.org/blog/blue) - Lucky Instar
+- [Neocities is Improving – And I Noticed!](https://aywren.com/2026/08/11/neocities-is-improving-and-i-noticed/) - Aywren´s Nook
+- [Grumbling about Planned Obsolescence](https://journal.kvibber.com/2026/08/planned-obsolescence/) - K-Squared Ramblings
+- [If you See a DragonFfly](https://notes.jeddacp.com/if-you-see-a-dragonfly/) - Notes By JC Probably
+- [all-lady lizards: whiptails (and their lack of cultural impact)](https://luckyinstar.neocities.org/blog/whiptails) - Lucky Instar
+
