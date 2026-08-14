@@ -15,7 +15,7 @@ heroImage: /images/blog/entrancetoironforge.jpg
 ---
 When [I last left off](/blog/starting-over-at-a-new-wow-server-project-alternac), I was doing some quests in a Troll Cave and tamed a bear. Now I progressed further through Dun Morough, my next quest sent me towards no other that Ironforge, the Dwarve´s Capital City.
 
-An ancient place full of history and insteresting Lore, with an impressive entrance.
+An ancient place full of history and interesting Lore, with an impressive entrance.
 
 ![A large stone entrance to the city](/images/blog/entrancetoironforge.jpg)
 
@@ -71,6 +71,6 @@ This leaves me now at level 13 and with Dun Morough fully explored, onwards to L
 - [It’s Harder to Blog About Gaming (For Me)](https://aywren.com/2026/08/14/its-harder-to-blog-about-gaming/) - Aywren´s Nook
 - [The End of Pokemon Bank (Day 13)](https://asteriisms.com/blog/20260813/) - Aster's
 Asterisms
-- 
+ 
 
 
