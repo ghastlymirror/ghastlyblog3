@@ -10,6 +10,8 @@ tags:
 description: When we last left off, I was doing some quest in a Troll cave and Tamed a Bear. As I progressed further my questing sent me to the mighty city of Ironfroge
 comment: true
 donate: true
+ogImage: /images/blog/entrancetoironforge.jpg
+heroImage: /images/blog/entrancetoironforge.jpg
 ---
 When [I last left off](/blog/starting-over-at-a-new-wow-server-project-alternac), I was doing some quests in a Troll Cave and tamed a bear. Now I progressed further through Dun Morough, my next quest sent me towards no other that Ironforge, the Dwarve´s Capital City.
 
