@@ -58,3 +58,4 @@ I´m glad I got witness it. By the way the next eclipse will be seen in 2 of Aug
 - [all-lady lizards: whiptails (and their lack of cultural impact)](https://luckyinstar.neocities.org/blog/whiptails) - Lucky Instar
 - [We Handed Bullies a Better Weapon](https://tobygeeksout.micro.blog/2026/08/11/we-handed-bullies-a-better.html) - Toby Geeks Out
 
+[https://aywren.com/2026/08/14/its-harder-to-blog-about-gaming/](https://aywren.com/2026/08/14/its-harder-to-blog-about-gaming/)
