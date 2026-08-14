@@ -7,7 +7,7 @@ category:
 tags:
     - blaugust
     - mmo
-description: When we last left off, I was doing some quest in a Troll aveand Tamed a Bear. As I progressed further my questing sent me to the mighty city of Ironfroge
+description: When we last left off, I was doing some quest in a Troll cave and Tamed a Bear. As I progressed further my questing sent me to the mighty city of Ironfroge
 comment: true
 donate: true
 ---
