@@ -18,7 +18,7 @@ heroImage: /images/blog/bookshelf.jpg
 
 ![A bookshelf](/images/blog/bookshelf.jpg)
 
-Based off my last post on the topic of books, I talked about how hard it is to find decent books to read, but despite those issues I have been able to still find a few gems here and there, and since it´s Blaugust Creator apreciation week I migh as well share some of my more recent favorites.
+Based off my last post on the [topic of books](blog/so-many-books-nothing-to-read), I talked about how hard it is to find decent books to read, but despite those issues I have been able to still find a few gems here and there, and since it´s Blaugust Creator apreciation week I migh as well share some of my more recent favorites.
 
 And while we´re at it feel free to share some recommendations either on this site´s comment section below, by messaging me or whatever social media you find this post in.
 
