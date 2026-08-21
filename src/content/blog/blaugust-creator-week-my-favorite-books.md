@@ -20,6 +20,8 @@ heroImage: /images/blog/bookshelf.jpg
 
 Based off my last post on the topic of books, I talked about how hard it is to find decent books to read, but despite those issues I have been able to still find a few gems here and there, and since it´s Blaugust Creator apreciation week I migh as well share some of my more recent favorites.
 
+And while we´re at it feel free to share some recommendations either on this site´s comment section below, by messaging me or whatever social media you find this post in.
+
 ## Hell Followed With Us By Andrew Joseph White
 
 In a post-apocallyptic world created by a virus mutated most of humanity into body horror mindless monster that was unleashed by a fundamentalist cult lives a young trans boy named Benji who was raised by said sect. He manages to escape and find refuge in one of the last LGBT+ centers in the world.
