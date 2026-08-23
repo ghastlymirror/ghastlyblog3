@@ -7,7 +7,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 18th August 2026
+**Last Update:** 23th August 2026
 
 
 ### 🎮 Playing
@@ -53,7 +53,10 @@ Buffalo Hunter Hunter, Cuckoo by Gretchen Felker Martin, Game Of Thrones
 - Voodoo Detective Review
 
 - Organizing my Photography Portfolio
+
 - Vampire Therapist Review
+
+- Creating a Vegetable Garden
 
 
 
