@@ -7,7 +7,7 @@ toc: true
 donate: true
 comment: true
 ogImage: /images/blog/summerwars.jpg
-description: There´s been news recently of AI escaping contaiment and hacking ito system where they noplace being. It suddenly reminds me of a movie I recenty watched.
+description: There´s been news recently of AI escaping contaiment and hacking into systems  where they have no place being. It reminds me of a movie I recenty watched.
 heroImage: /images/2026/summerwarsfamilybandingtogether.jpg
 tags:
     - anime
