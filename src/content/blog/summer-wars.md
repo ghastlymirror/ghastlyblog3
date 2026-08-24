@@ -1,12 +1,17 @@
 ---
 title: "Summer Wars: An Anime With A Cautionary tale About AI"
 date: 2026-08-24
+category:
+    - other media
 toc: true
 donate: true
 comment: true
 ogImage: /images/blog/summerwars.jpg
 description: There´s been news recently of AI escaping contaiment and hacking ito system where they noplace being. It suddenly reminds me of a movie I recenty watched.
 heroImage: /images/2026/summerwarsfamilybandingtogether.jpg
+tags:
+    - anime
+    - scifi
 ---
 
 ![Movie Posters for Summer Wars showing a teenage girl with black hair carrying a banner with people of different ages standing behind her](/images/blog/summerwars.jpg)
