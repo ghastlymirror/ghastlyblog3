@@ -2,7 +2,7 @@
 title: "What I am Playing This Summer 2026: Part 2"
 date: 2026-08-28
 ogImage: /images/blog/wariowaretwsited.png
-description: Eary this months I´ve been mention what games I´ve been playing this summer. As august s ending I´ve added some newones to my roster
+description: Eary this months I´ve been mention what games I´ve been playing this summer. As august s ending I´ve added some new ones to my roster
 category:
     - gaming
     - review
@@ -18,7 +18,7 @@ toc: true
 ---
 In the beginning of this Month I decided to talk about what games I´ve been playing during this summer. As August is coming to an end, some I finished others I´ve been taking a break and decided to take up new titles.
 
-So to close up the summer season, and in case I don´t post more for thi years Blaugust here are some new additions to that list.
+So to close up the summer season, and in case I don´t post more for this years Blaugust here are some new additions to that list.
 
 ## WarioWare Twisted
 
@@ -50,7 +50,7 @@ I was also told it´s a good idea to join their [discord server](https://discord
 
 ## Pokemon Ranger
 
-![Pokemon Ranger Game Cover](/images/2026/pokemonranger.webp#center)
+![Pokemon Ranger Game Cover](/images/2026/pokemonranger.webp#medium)
 
 In this Pokemon spinoff, you play as a Pokemon Ranger. And instead of adquiring a team roster of mons to train and beat gym leaders to become the very best, you spend most of you´re time helping humans and pokemon alike. The region of Fiore is an unique reason in which people and pokemon coexist peacefully and trainer are seen as novelty that only exist outside of the island.
 
