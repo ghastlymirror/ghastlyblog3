@@ -2,7 +2,7 @@
 title: "What I am Playing This Summer 2026: Part 2"
 date: 2026-08-28
 ogImage: /images/blog/wariowaretwsited.png
-description: Eary this months I´ve been mention what games I´ve been playing this summer. As august s ending I´ve added some new ones to my roster
+description: Early this month I´ve mentioned what games I´ve been playing this summer. As august is ending, I´ve added some new ones to my roster
 category:
     - gaming
     - review
