@@ -7,6 +7,13 @@ toc: false
 ogImage: /images/2026/froggytiny.jpg
 description: Remember when earlier this month I talked about frogs living in y watering tank. Well there has been some new developments
 heroImage: /images/2026/froggytiny.jpg
+category:
+    - photography
+    - blogging
+tags:
+    - blaugust
+    - nature
+    - updates
 ---
 
 Remember when [earlier this month](/blog/what-i-am-playing-this-summer-2026) I talked about the frog living in my watering tank? Well, some new developments. So, anyway I had open up the tank to drain it a little bit and mind (its fine it never empties it completely) and it formed a little pond/creek
