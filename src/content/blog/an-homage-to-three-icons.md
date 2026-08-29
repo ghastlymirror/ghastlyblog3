@@ -35,7 +35,7 @@ You could say his wild performances were inspir for ationthose outcasts and weir
 
 But the universe decided to be even extra ironic and have this two left us in the same day at the same age.
 
-![Peter Cullen](/images/2026/peter%20cullen.jpg)
+![Peter Cullen](/images/2026/petercullen.jpg)
 
 And then there´s Peter Cullen, who also died around the same time spane but 5 years old, most of yall knew as [Optimus Prime](https://www.youtube.com/watch?v=tFex4y45BNU) but I knew him as [Eyeore](https://youtu.be/z0-JzoSU1Zo) from Winnie the Pooh, I rememeber hearinng someone say, that his versions talks as disgruntled army vet and I´m living for it. He was also in Invicible? Wait, is that why I saw a lot of Transformers memes in that fandom?
 
