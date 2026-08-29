@@ -5,7 +5,7 @@ comment: true
 donate: true
 toc: false
 ogImage: /images/blog/dollypartron.jpg
-description: Like Many of you  I´ve heard of the passing of three icons, Dolly Parto, Tim Crry and Peter Cullen. Here´s To Them.
+description: Like Many of you  I´ve heard of the passing of three icons, Dolly Parton, Tim Crry and Peter Cullen. Here´s To Them.
 category:
     - news
 tags:
