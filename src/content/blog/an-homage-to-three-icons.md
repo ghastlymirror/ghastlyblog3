@@ -17,7 +17,7 @@ heroImage: /images/blog/dollypartron.jpg
 
 Like many of you I recently heard of the passing of three famous people, Dolly Parton, Tim Curry and Peter Cullen, it was sad but to be expected considering their age.
 
-But as one Dr. Seuss quote says, don´t cry because its over, smile because it happened. These three have touched and inpsired others in so many ways, so here´s to them.
+But as one Dr. Seuss quote says, don´t cry because its over, smile because it happened. These three have touched and inpsired others in so many ways, so here´s to them. 1
 
 ![Dolly Partron](/images/blog/dollypartron.jpg)
 
