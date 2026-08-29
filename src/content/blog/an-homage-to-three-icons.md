@@ -4,7 +4,6 @@ date: 2026-08-29
 draft: true
 comment: true
 donate: true
-toc: false
 ogImage: /images/blog/dollypartron.jpg
 description: Like Many of of you  I´ve heard of the passing of three icons, Dolly Parto, Tim Crry and Peter Cullen. Here´s To Them.
 category:
@@ -17,7 +16,7 @@ heroImage: /images/blog/dollypartron.jpg
 
 Like many of you I recently heard of the passing of three famous people, Dolly Parton, Tim Curry and Peter Cullen, it was sad but to be expected considering their age.
 
-But as one Dr. Seuss quote says, don´t cry because its over, smile because it happened. These three have touched and inpsired others in so many ways, so here´s to them. 1
+But as one Dr. Seuss quote says, don´t cry because its over, smile because it happened. These three have touched and inpsired others in so many ways, so here´s to them. 
 
 ![Dolly Partron](/images/blog/dollypartron.jpg)
 
