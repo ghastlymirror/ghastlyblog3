@@ -9,7 +9,7 @@ description: Remember when earlier this month I talked about frogs living in y w
 heroImage: /images/2026/froggytiny.jpg
 ---
 
-Remember when [earlier this month](/blog/waiter-a-frog-in-my-tank) I talked about the frog living in my watering tank? Well, some new developments. So, anyway I had open up the tank to drain it a little bit and mind (its fine it never empties it completely) and it formed a little pond/creek
+Remember when [earlier this month](/blog/what-i-am-playing-this-summer-2026) I talked about the frog living in my watering tank? Well, some new developments. So, anyway I had open up the tank to drain it a little bit and mind (its fine it never empties it completely) and it formed a little pond/creek
 
 ![A small creek in the middle of grass](/images/2026/frogcreek.jpg#medium)
 
