@@ -3,6 +3,7 @@ title: An Homage To Three Icons
 date: 2026-08-29
 comment: true
 donate: true
+toc: false
 ogImage: /images/blog/dollypartron.jpg
 description: Like Many of of you  I´ve heard of the passing of three icons, Dolly Parto, Tim Crry and Peter Cullen. Here´s To Them.
 category:
