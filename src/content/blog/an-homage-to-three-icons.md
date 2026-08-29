@@ -6,7 +6,13 @@ comment: true
 donate: true
 toc: false
 ogImage: /images/blog/dollypartron.jpg
-description: Like Many of of you  I´ve herd of the passing of three icons, Dolly Parto, Tim Crry and Peter ullen. Here´s To Them.
+description: Like Many of of you  I´ve heard of the passing of three icons, Dolly Parto, Tim Crry and Peter Cullen. Here´s To Them.
+category:
+    - news
+tags:
+    - blaugust
+    - writting
+heroImage: /images/blog/dollypartron.jpg
 ---
 
 Like many of you I recently heard of the passing of three famous people, Dolly Parton, Tim Curry and Peter Cullen, it was sad but to be expected considering their age.
