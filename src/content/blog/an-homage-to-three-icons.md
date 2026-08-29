@@ -1,7 +1,6 @@
 ---
 title: An Homage To Three Icons
 date: 2026-08-29
-draft: true
 comment: true
 donate: true
 ogImage: /images/blog/dollypartron.jpg
