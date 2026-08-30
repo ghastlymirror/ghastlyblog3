@@ -10,6 +10,7 @@ category:
 tags:
     - blaugust
     - retro
+    - emulation
 ogImage: /images/blog/retrobat.jpg
 heroImage: /images/blog/retrobat.jpg
 description: Ever since I found out about emulation years ago, its been by favorite method to play. But  decided to take it to a new level
