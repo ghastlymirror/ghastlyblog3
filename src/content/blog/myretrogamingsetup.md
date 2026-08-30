@@ -1,7 +1,6 @@
 ---
 title: Creating My Own Retro Gaming Setup
 date: 2026-08-30
-draft: true
 donate: true
 comment: true
 toc: true
