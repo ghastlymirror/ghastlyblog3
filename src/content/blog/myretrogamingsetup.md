@@ -12,7 +12,7 @@ tags:
     - retro
 ogImage: /images/blog/retrobat.jpg
 heroImage: /images/blog/retrobat.jpg
-description: Ever since I found out by emulation years ago, its been by favorite method to play. But  decided to take it to a new level
+description: Ever since I found out about emulation years ago, its been by favorite method to play. But  decided to take it to a new level
 ---
 ![RetroBAt Cover](/images/blog/retrobat.jpg)
 
