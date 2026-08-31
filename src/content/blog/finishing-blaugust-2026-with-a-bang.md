@@ -1,7 +1,6 @@
 ---
 title: Finishing Blaugust 2026 With A Bang
 date: 2026-08-31
-draft: true
 comment: true
 donate: true
 toc: false
