@@ -4,6 +4,7 @@ date: 2026-08-02
 category:
     - gaming
     - review
+    - backlog
 heroImage: /images/blog/blaugustplusconstellations.png
 ogImage: /images/blog/blaugustplusconstellations.png
 tags:

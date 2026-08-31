@@ -6,6 +6,7 @@ description: Early this month I´ve mentioned what games I´ve been playing this
 category:
     - gaming
     - review
+    - backlog
 tags:
     - blaugust
     - puzzle
