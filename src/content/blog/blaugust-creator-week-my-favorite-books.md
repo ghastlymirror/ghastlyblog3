@@ -11,7 +11,7 @@ comment: true
 donate: true
 toc: true
 ogImage: /images/blog/bookshelf.jpg
-description: "O m last post about Books I mentioned how hard it is to find something to read,  luckily I still manged tofind a few gems here and there. "
+description: "O m last post about Books I mentioned how hard it is to find something to read,  luckily I still managed to find a few gems here and there. "
 heroImage: /images/blog/bookshelf.jpg
 ---
 
@@ -24,7 +24,7 @@ And while we´re at it feel free to share some recommendations either on this si
 
 ## Hell Followed With Us By Andrew Joseph White
 
-In a post-apocallyptic world created by a virus mutated most of humanity into body horror mindless monster that was unleashed by a fundamentalist cult lives a young trans boy named Benji who was raised by said sect. He manages to escape and find refuge in one of the last LGBT+ centers in the world.
+In a post-apocallyptic world created by a virus mutated most of humanity into body horror mindless monsters that was unleashed by a fundamentalist cult lives a young trans boy named Benji who was raised by said sect. He manages to escape and find refuge in one of the last LGBT+ centers in the world.
 
 Just one problem, he´s already been infected with an enhanced version of the virus, destined to eventually turn  him into a weapon that will wipe humanity for good. Only time will tell if he will able to take control of his own infection or sucumb to it.
 
@@ -32,11 +32,11 @@ I found interesting how the story decided to set up its own version of the zombi
 
 Benji´s life growing up with the cult do resonate with the experiences of those who have grown up with fundamentalist families (end of the world cults aside), and it does not pull any punches.
 
-Oh boy, its doens´t, you´re given very detailed descriptions of Benji´s mutation in the most visceral manner, with human teeth falling off and growing fangs, with parts of his flesh rotting and mutanting, as it should in any proper body horror story.
+Oh boy, its doens´t, you´re given very detailed descriptions of Benji´s mutation in the most visceral manner, with human teeth falling off and growing fangs, with parts of his flesh rotting and mutating, as it should in any proper body horror story.
 
 All of this while trying to prevent the cult from getting his hands on him. It´s not all bleak as Benji and his group try to fight back, and him finally getting some control over his life.
 
-Also I heard its due for a movie adaptation any day now, by one of the Wachoeski Sisters! You may have heard of them, they create a small movie called the Matrix.
+Also I heard its due for a movie adaptation any day now, by one of theWachowskis Sisters! You may have heard of them, they create a small movie called the Matrix.
 
 
 ## Circle of Magic Series By Debra Doyle and James D. Macdonald
@@ -45,25 +45,25 @@ This is a bit of an obscure one, and one that I loved as a kid (however I only r
 
 Wait, wait, yeah I know its been done before, but hear me out. I like how the series went about it.
 
-See our main character Randal went of his way to learn magic instead of having it trust upon him and some random man telling him its destiny. At the start he was just some 12 squire on his way to becoming a knight some and living in his Uncle´s Castle. And growing up he thought that was his only lot in life, until a mysterious wizard showed up asking for shelter for a few days in exchange for magic entertaiment and visions of the future.
+See our main character Randal went out of his way to learn magic instead of having it trust upon him and some random man telling him its his destiny. At the start he was just some 12 year old squire on his way to becoming a knight some and living in his Uncle´s Castle. And growing up he thought that was his only lot in life, until a mysterious wizard showed up asking for shelter for a few days in exchange for magic entertaiment and visions of the future.
 
 What Randal saw that day changed his life forever, it made him consider that perhaps there is another path he could take, he even had a nightmare about it. So now he has two choices, he can stick to his regular life or he can take a chance to dive into the world of the mystical arts.
 
-And here´s the kicker the narrative goes out of its way to portray being a wizard as unglamorous as possible, a subversion from how magic users are typically portrayed in this genre. Heck, even Murdoc the visiting wizard, tries to dissuade him from pursuing it. He described as " You will spend more time on the road than with a roof over your head, more times starving than saciated, most of your friends will die, And if you´re very lucky, you might live long enough to become an old wise man".
+And here´s the kicker, the narrative goes out of its way to portray being a wizard as unglamorous as possible, a subversion from how magic users are typically portrayed in this genre. Heck, even Murdoc the visiting wizard, tries to dissuade him from pursuing it. He described as " You will spend more time on the road than with a roof over your head, more times starving than saciated, most of your friends will die, And if you´re very lucky, you might live long enough to become an old wise man".
 
-The story makes it very clear, it´s not just anyone who enter this field, only but the most dedicated stick to this path, and its not just a matter of having the gift but it requires a lot of study and literacy skills.
+The story makes it very clear, it´s not just anyone who enter this field, only but the most dedicated stick to this path, and its not just a matter of having the gift as it requires a lot of study and literacy skills.
 
 That last part is an obstacle to Randal, seeing as this a medieval style setting as he never learned to read (althought Murdoc does teach him the basics on their way to the school), which means he will struggle than most other students. And yes it takes a while for him to cast his proper spell, no waving wands and saying the right words will do the trick.
 
-But I think that real meat of the first book was the world building, the style of learning feels more like an University, with stundents and teachers discussiong the inner workings of magic in the cafeteria, while free board is provided by the school, some older students prefer to rent out a room in the city.
+But I think that real meat of the first book was the world building, the style of learning feels more like an University, with students and teachers discussing the inner workings of magic in the cafeteria, while free board is provided by the school, some older students prefer to rent out a room in the city.
 
-And after a couple of year of formal schooling they are expected to go on the road pick him any scrap of magic they can find then return to the school and present the examiners with an original spell of their creation, a bit like presenting A Doctoral thesis if you ask me.
+And after a couple of year of formal schooling they are expected to go on the road pick up any scrap of magic they can find then return to the school and present the examiners with an original spell of their creation, a bit like presenting A Doctoral thesis if you ask me.
 
 And while the stakes aren´t that high, you still feel a certain tension as main characters tries everything he to finally master magic and pass his first exam. 
 
-Althought mind you the magic school only show up in the first book, with Randal spending the rest of it travelling around and grows into his own as a wizard. From someone unable to light a single candle with magic to get himself involved in political intrigues of the realm as a court wizard.
+Althought mind you the magic school only shows up in the first book, with Randal spending the rest of it travelling around and grows into his own as a wizard. From someone unable to light a single candle with magic to get himself involved in political intrigues of the realm as a court mage.
 
-Also the book do feel a bit short so I do recommend reading them back to back.
+Keep in mind, the books do feel a bit short so I do recommend reading them back to back.
 
 
 ## Parasitology Series By Mira Grant
@@ -81,23 +81,23 @@ I´m not going to go too deep in the plot, for risk of spoiling it. But if paras
 
 ## League of Peoples by James Alan Garnder
 
-An interstellar scifi series set in the future where humanity has been contacted by a League full of different alien races to join them. They have have been provided with advanced techonology and a brand new planet, everything need for an utopia in return they must abide by one law: to never kill another sentient being. And individual who does will be considered non-sentient and banned from space travel, anyone who tries to get around said ban will be executed.
+An interstellar 90s scifi series set in the future where humanity has been contacted by a League full of different alien races to join them. They have have been provided with advanced techonology and a brand new planet, everything need for an utopia in return they must abide by one law: to never kill another sentient being. And individual who does will be considered non-sentient and banned from space travel, anyone who tries to get around said ban will be executed.
 
 Even though you would think this would lead the universe to become a more pacifist, kumbaya type of universe, it doesn´t prevent from some unethical pratices (anything goes as long as murder isn´t involved.) And some of the downsides of humanity taking the deal or the league intrefering in their civilization.
 
-It does for one lead to the beakdown of society on Earth, as more and more people migrated to their new planet with only those left behind being to violent or too strubbon to leave.
+It does for one lead to the beakdown of society on Earth, as more and more people migrated to their new planet with only those left behind being to violent or too stubbornto leave.
 
-No more is it shown in its two first books, Expendable and Commitment hour. The first reveals despite humans taking to the stars in the form of Technocracy with war crime being almost eradicated and excellent healthcare, ableism and lookism is still pretty much a thing. Where having certain disabilties or an off putting apearance will get you conscripted to the Explorer Corps.
+No more is it shown in its two first books, Expendable and Commitment hour. The first reveals despite humans taking to the stars in the form of society valled the Technocracy, with war crime being almost eradicated and excellent healthcare, ableism and lookism is still pretty much a thing. Here, having certain disabilties or an off putting apearance will get you conscripted to the Explorer Corps.
 
-Their logic here is that deaths of healthy and attractive young people during space exploration cause a lot of  extreme distress and trauma, therefore they decided to create an expendable tax for instead. People who are disabled (or look outside the norm) enough to make them a pariah in society but not too disabled that they aren´t able to perform on a mission. Also there is some corruption in the higher governmental ranks, that leads them to ship off some incovenient admirals on to a planet of no return.
+Their logic here is that deaths of healthy and attractive young people during space exploration cause a lot of  extreme distress and social trauma, therefore they decided to create an expendable group instead. People who are disabled (or look outside the norm) enough to make them a pariah in society but not too disabled that they aren´t able to perform on a mission. Also there is some corruption in the higher governmental ranks, that leads them to ship off some incovenient admirals on to a planet of no return.
 
-While the second book is an interesting excercise in gender identidy, back on Earth there is a small village where everyone below the age of 21 changes gender every year. Once they reach 21 they are expected to commit to a single gender, being male, female or neut (basically intersex/non-binary gender).
+While the second book is an interesting excercise in gender identity, back on Earth there is a small village where everyone below the age of 21 changes gender every year. Once they reach 21 they are expected to commit to a single gender, being male, female or neut (basically intersex/non-binary).
 
-Despite this type of flexibity, task and jobs are segregrated by gender meaning its not just about what gender they prefer to spend the rest of their life but about their preferred trade. Basically there a whole theme of exploration of gender identidy and gender roles going one here.
+Despite this type of flexibity, task and jobs are gender segregrated meaning its not just about what gender they prefer to spend the rest of their life but about their preferred trade. Basically there a whole theme of exploration of gender identity and gender roles going one here.
 
-And mind you this was written in the 90s, I have seen some people compare this  to Ursula K.Le Guin´s The Left Hand of Darkness, but I think it does thing a lot differently, i was a bit dispointed with the explanation for why this village is the way it is turning  it from a gendered theme to full on existencial crisis. 
+And mind you this was written in the 90s, I have seen some people compare this to Ursula K.Le Guin´s The Left Hand of Darkness, but I think it does things a lot differently, I was a bit dispointed with the explanation for why this village is the way it is turning it from a gendered theme to full on existencial crisis. 
 
-But other than I liked it, honestly each book seems to explore different issues from the ethical to the spiritual, there is even a whole book involving a planet of Budhists.
+But other than that, I liked it, honestly each book seems to explore different issues from the ethical to the spiritual, there is even a whole book involving a planet of Buddhists.
 
 For anyone who might not be reading the rest of the series , still I reccomend readin at least the first two titles.
 
@@ -110,7 +110,7 @@ Old Maud is the anti-Miss Mapple, an 88 year old, never married with no relative
 
 Don´t worry,  most of her victims are kinda jerks anyway, making this more of a dark comedy, with Mauds inner thoughts garanteed to give you a chuckle or two.
 
-All she wants is to be left alone and she will do anything to get even if means getting rid of say some pesky neighbours in the most unethical way, or dealing with a scammy antiquarian trying to scam her. The fun part is watching her how she get away with it.
+All she wants is to be left alone and she will do anything to get even if means getting rid of say some pesky neighbours in the most unethical way, or dealing with a scammy antiquarian. The fun part is watching her how she get away with it.
 
 There´s also the sequel, An Eldery Lady Must Not Be Crossed that is a must read for christmas, it was so funny that it even came with recipe for the gingerbread cookies that showed up in the story.
 
@@ -125,7 +125,7 @@ We need more old people as protagonists for sure.
 
  This is a very dark story exploring themes of domestic abuse while at the same time focusing on liberation from one´s opressors. 
 
- Kinda cool the author decided to pick up an well know gothic tale and give it new life, I actually found this by accident during the whole Dracula Daily craze and was entrance by its dark and seductive prose. So if you must read another retteling of Dracula go for this one. It has a decent payoff at the end.
+ Kinda cool the author decided to pick up an well know gothic tale and give it new life, I actually found this by accident during the whole Dracula Daily craze and was entrance by its dark and seductive prose. So if you must read another retelling of Dracula go for this one. It has a decent payoff at the end.
 
 ## The Witcher Series by Andrzej Sapkowski
 
@@ -133,7 +133,7 @@ This one probably needs no introduction, the book series that resulted in one of
 
 Originally published in polish it has finally been translated in other languages. What makes this fantasy series stand out is that it picks up on known fairy tales and gives it its own more realistic spin.
 
-However, its easy to dismiss this as yet another dark fantasy, even thoguh it show characters that are capable of both noble and terrible deeds, but what really kept me reading was its ironic sense of humour of satire, so it doesn+t take itself too seriously.
+However, its easy to dismiss this as yet another dark fantasy, even thoguh it show characters that are capable of both noble and terrible deeds, but what really kept me reading was its ironic sense of humour of satire, so it doesn´t take itself too seriously.
 
 I think my favorite was in one of the short stories where poor Geralt has to serve as the middleman between a prince and his mermaid lover who can´t see to agree on wether they both live on land as humans or merpeople (where do you think I´m gonna lay my eggs? In a Hat!?), that one almost had me rolling on the floor in laughter.
 
