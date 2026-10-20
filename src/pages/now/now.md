@@ -65,4 +65,4 @@ Buffalo Hunter Hunter, Cuckoo by Gretchen Felker Martin
 
 ### 🐦‍ Living
 
-Trying to plan a vegetable garden for autum
+Already Planted my Vegetable Garden (except for the carrots which I´ll be planting soon), now it´s a matter of maintenance.
