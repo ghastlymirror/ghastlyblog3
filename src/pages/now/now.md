@@ -7,12 +7,12 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 9th October 2026
+**Last Update:** 1st November 2026
 
 
 ### 🎮 Playing
 
-Powerwash Simulator, Persona, Hollywood Monsters, Loop Hero, The Cat Lady, Hypnospace Outlaw,  World of Warcraft, Rythm Thief, Potion Permit, The Last Day of June, Wario Ware Twisted, Eterspire, Pokemon Ranger, Cabernet
+Persona, Hollywood Monsters, The Cat Lady,  World of Warcraft, Rythm Thief, Potion Permit, The Last Day of June, Wario Ware Twisted, Eterspire, Pokemon Ranger, Cabernet, Foolish Mortals
 
 ### 📺 Watching
  King of the Hill,  [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Monster Loving Maniacs, Dark Shadows Delicious in Dungeon, Spiderman the Animated Series, May I ask One Last Thing, Twin Peaks
@@ -57,9 +57,6 @@ Buffalo Hunter Hunter, Cuckoo by Gretchen Felker Martin
 
 - Vampire Therapist Review
 
-- Creating a Vegetable Garden
-
-- Halloween Posting
 
 
 
