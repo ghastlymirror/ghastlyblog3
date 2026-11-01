@@ -11,7 +11,7 @@ heroImage: /images/blog/blaugustplusconstellations.png
 tags:
     - blaugust
     - writting
-description: Today is the last day of August and with it the end of the Blaugust Blogging Event. Let´ssee how well I did this year.
+description: Today is the last day of August and with it the end of the Blaugust Blogging Event. Let´see how well I did this year.
 ---
 ![Blaugust 2026 Festival of Blogging](/images/blog/blaugustplusconstellations.png)
 
