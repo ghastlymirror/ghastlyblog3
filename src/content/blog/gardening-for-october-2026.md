@@ -2,7 +2,7 @@
 title: Gardening for October 2026
 date: 2026-11-07
 
-description: My plan for my vegetable garden is coming to fruition. Here´s some of the steaps I took to set it up for Autumn.
+description: My plan for my vegetable garden is coming to fruition. Here´s some of the steps I took to set it up for Autumn.
 heroImage: /images/blog/alface.jpg
 ogImage: /images/blog/alface.jpg
 toc: true
